@@ -1,9 +1,6 @@
 Created Boychongzen aka Xroot
 
-
-
 New Scanning Bug axis
-
 
 my.axisnet.id
 axisnet.ru
@@ -13,7 +10,7 @@ pojok.axisnet.id
 merchant@axisnet.id
 api.axisnet.id
 axisnet.net
-axis
+axis.tw
 axisnet.co.jp
 axisnet.biz
 axisnet.biz
