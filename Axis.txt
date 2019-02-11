@@ -1,6 +1,4 @@
-Created Boychongzen aka Xroot
-
-New Scanning Bug axis
+New Scanning Bug axis 2019
 
 my.axisnet.id
 axisnet.ru
@@ -23,3 +21,5 @@ app.axisworld.co.id
 axisnet.co.id
 axisnet.id
 www.axisworld.co.id
+
+Created Boychongzen aka Xroot
