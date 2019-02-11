@@ -1,6 +1,6 @@
 Created Boychongzen aka Xroot
 
-New Scanning Bug Supersoccer
+New Scanning Bug Supersoccer 2019
 
 
 www.supersoccer.tv
@@ -80,4 +80,48 @@ plog.supersoccer.tv
 port-in.supersoccer.tv
 pro-id.supersoccer.tv
 prod.supersoccer.tv
-prod-api.supersoccer.tvprod-in.supersoccer.tvprod-ne.supersoccer.tvpromo.supersoccer.tvr.promo.supersoccer.tvptdjarum.supersoccer.tvrdns.supersoccer.tvrsa-dev.supersoccer.tvsabar.supersoccer.tvbapak.bapak.sabar.supersoccer.tvwww.bapak.bapak.sabar.supersoccer.tvsabarbrn8.supersoccer.tvserver.supersoccer.tvsingteltv.supersoccer.tvsm.supersoccer.tvsport.supersoccer.tvssapi-staging.supersoccer.tvssapistaging.supersoccer.tvstag.supersoccer.tvstaging.supersoccer.tvstaging-uk.supersoccer.tvstatic.supersoccer.tvstatic-id.supersoccer.tvstatic01.supersoccer.tvstatic02.supersoccer.tvstaticcdn01.supersoccer.tvstatick01.supersoccer.tvstatis.supersoccer.tvstatis01.supersoccer.tvstatistic.supersoccer.tvstreaming-in.supersoccer.tvsupport.supersoccer.tvtahubulat500an.supersoccer.tvtechnical.supersoccer.tvtelkomsel.supersoccer.tvwww.telkomsel.supersoccer.tvterms.supersoccer.tvtrans.supersoccer.tvtrbtv-cms-prd.supersoccer.tvtribe.supersoccer.tvtuanrumah.supersoccer.tviggrowthy.lineapps.commidnight.telkomsel.comapiprod.hooq.tvkingmaster.supersoccer.tvvivo.supersoccer.tvvod.supersoccer.tvvod-api.supersoccer.tvwatch.supersoccer.tvwois.supersoccer.tvwwww.supersoccer.tv
+prod-api.supersoccer.tvprod-in.supersoccer.tv
+prod-ne.supersoccer.tvp
+romo.supersoccer.tv
+r.promo.supersoccer.tv
+ptdjarum.supersoccer.tv
+rdns.supersoccer.tv
+rsa-dev.supersoccer.tv
+sabar.supersoccer.tv
+bapak.bapak.sabar.supersoccer.tv
+www.bapak.bapak.sabar.supersoccer.tv
+sabarbrn8.supersoccer.tvserver.supersoccer.tv
+singteltv.supersoccer.tv
+sm.supersoccer.tvsport.supersoccer.tv
+ssapi-staging.supersoccer.tv
+ssapistaging.supersoccer.tv
+stag.supersoccer.tv
+staging.supersoccer.tv
+staging-uk.supersoccer.tv
+static.supersoccer.tv
+static-id.supersoccer.tv
+static01.supersoccer.tv
+static02.supersoccer.tv
+staticcdn01.supersoccer.tv
+statick01.supersoccer.tv
+statis.supersoccer.tv
+statis01.supersoccer.tv
+statistic.supersoccer.tv
+streaming-in.supersoccer.tv
+support.supersoccer.tv
+tahubulat500an.supersoccer.tv
+technical.supersoccer.tv
+telkomsel.supersoccer.tv
+www.telkomsel.supersoccer.tv
+terms.supersoccer.tv
+trans.supersoccer.tv
+trbtv-cms-prd.supersoccer.tv
+tribe.supersoccer.tv
+tuanrumah.supersoccer.tv
+iggrowthy.lineapps.commidnight.telkomsel.comapiprod.hooq.tv
+kingmaster.supersoccer.tv
+vivo.supersoccer.tv
+vod.supersoccer.tv
+vod-api.supersoccer.tv
+watch.supersoccer.tv
+wois.supersoccer.tvwwww.supersoccer.tv
