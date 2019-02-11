@@ -1,3 +1,5 @@
+Scanning Bug Aktif line 2019
+
 taxi.line.me
 tr.line.me
 line.me
@@ -12,3 +14,4 @@ ec.line.me
 music.line.me
 d.line.me
 
+Created Boychongzen aka Xroot
