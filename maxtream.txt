@@ -1,10 +1,10 @@
-Created Boychongzen aka Xroot
-
-New Scanning Bug maxstream
+New Scanning Bug Maxstream 2019
 
 www.maxstreamtv.com
-www.nickelodeon.com.auideo.nickelodeon.com.au
-kca.nickelodeon.com.auorigin-microsites.nickelodeon.com.au
+www.nickelodeon.com.au
+video.nickelodeon.com.au
+kca.nickelodeon.com.au
+origin-microsites.nickelodeon.com.au
 www.nickelodeon.com.au
 relaunch.nickelodeon.com.au
 sc.nickelodeon.com.au
@@ -12,3 +12,5 @@ t.nickelodeon.com.au
 turtles.nickelodeon.com.au
 video.nickelodeon.com.au
 www.nickelodeon.com.au
+
+Created Boychongzen aka Xroot
