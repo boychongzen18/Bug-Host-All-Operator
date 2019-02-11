@@ -1,5 +1,3 @@
-Created Boychongzen aka Xroot
-
 New Scanning Bug Ooredoo
 
 www.indosatooredoo.com
@@ -213,3 +211,6 @@ xpjimsva01.indosatooredoo.com
 xptimsva01.indosatooredoo.com
 api.youtube.indosatooredoo.com
 api.youtube-test.indosatooredoo.com
+
+
+Created Boychongzen aka Xroot
