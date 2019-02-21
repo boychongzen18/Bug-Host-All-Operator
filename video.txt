@@ -4,8 +4,6 @@ Created By Boychongzen aka Xroot
 
 
 r3---sn-a5meknl7.a1.googlevideo.com
-redirector.c.googlevideo.com
-cache.googlevideo.com
 0.0-78-194.cache.googlevideo.com
 10.0-78-194.cache.googlevideo.com
 100.0-78-194.cache.googlevideo.com
@@ -1149,5 +1147,7 @@ r6.sn-q5u5bgv02-3c26.googlevideo.com
 r6.sn-tt1eln7l.googlevideo.com
 r4.sn-vgqs7nez.googlevideo.com
 www.googlevideo.com
+redirector.c.googlevideo.com
+cache.googlevideo.com
 
 Regard Boychongzen aka Xroot
