@@ -13,3 +13,7 @@ My Facebok    : https://web.facebook.com/xroot.xroot.7
 # Moto : Berbagi Itu Indah
 
 # Regard Boychongzen aka Xroot
+
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/0.png)
+
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/1.png)
