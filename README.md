@@ -2,6 +2,9 @@
 
 # Created Boychongzen aka Xroot
 
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_1.png)
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_2.png)
+
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial : https://youtu.be/hbGnjq4bspA
@@ -14,6 +17,3 @@ My Facebok    : https://web.facebook.com/xroot.xroot.7
 
 # Regard Boychongzen aka Xroot
 
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/0.png)
-
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/1.png)
