@@ -14,8 +14,11 @@ ibnads.xl.co.id
 ibncloud.xl.co.id
 
 m.elevenia.co.id ✓ Mode HTTP
+api.elevenia.co.id
+cdn.elevenia.co.id
 
 tr.line.me ✓ Mode SSL 
+lgurl.line.me
 
 NB : Jgn lupa untuk cari IP Local yg pas di TKP Masing2
 
