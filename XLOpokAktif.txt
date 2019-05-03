@@ -7,6 +7,8 @@ mmc.xl.net.id/servlets/mms ✓ Mode HTTP
 xl.co.id ✓ Mode HTTP
 
 ibn.andreach.co ✓ Mode HTTP
+ibnads.xl.co.id
+ibncloud.xl.co.id
 
 m.elevenia.co.id ✓ Mode HTTP
 
