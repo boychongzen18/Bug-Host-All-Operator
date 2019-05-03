@@ -3,8 +3,11 @@ XL Opok Aktif ✓ 2019
 mmc.xl.net.id/servlets/mms ✓ Mode HTTP
 
 123.xl.co.id ✓ Mode HTTP
+web123.xl.co.id
+my.xl.co.id
 
 xl.co.id ✓ Mode HTTP
+xplor.xl.co.id
 
 ibn.andreach.co ✓ Mode HTTP
 ibnads.xl.co.id
