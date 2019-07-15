@@ -4,6 +4,8 @@
 
 ![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_1.png)
 ![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_2.png)
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug1.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
