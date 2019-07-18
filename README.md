@@ -17,7 +17,7 @@ My Website    : http://hackingforlive.cf
 
 My Facebok    : https://web.facebook.com/xroot.xroot.7
 
-eMAIL         : phreakingindo@gmail.com     
+eMAIL         : hackingforlive@yahoo.com      
 
 # Moto : Berbagi Itu Indah
 
