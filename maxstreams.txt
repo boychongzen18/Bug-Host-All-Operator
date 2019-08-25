@@ -4,6 +4,8 @@ Scannibg Bug Akamaitechnologies 2019
 Creator Boychongzen aka Xroot
 
 
+0.0.0.0.0.0.0.0.0.9.8.4.0.2.1.0.0.deploy.static.akamaitechnologies.com
+0.0.0.0.0.0.0.0.0.0.0.0.2.d.0.0.deploy.static.akamaitechnologies.com
 a196-28-56-129.akamaitechnologies.com
 a196-28-56-130.akamaitechnologies.com
 a196-28-56-131.akamaitechnologies.com
@@ -21,8 +23,6 @@ a209-242-19-98.akamaitechnologies.com
 a209-242-19-99.akamaitechnologies.com
 static.akamaitechnologies.com
 deploy.static.akamaitechnologies.com
-0.0.0.0.0.0.0.0.0.9.8.4.0.2.1.0.0.deploy.static.akamaitechnologies.com
-0.0.0.0.0.0.0.0.0.0.0.0.2.d.0.0.deploy.static.akamaitechnologies.com
 a103-238-150-0.deploy.static.akamaitechnologies.com
 a104-100-0-0.deploy.static.akamaitechnologies.com
 a104-100-10-0.deploy.static.akamaitechnologies.com
