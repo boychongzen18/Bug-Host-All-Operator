@@ -8,3 +8,5 @@ line.phreakers-team-hfl.ml
 axisopok.phreakers-team-hfl.ml
 iflix.phreakers-team-hfl.ml
 maxstream.phreakers-team-hfl.ml
+opramini.phreakers-team-hfl.ml
+tselopok.phreakers-team-hfl.ml
