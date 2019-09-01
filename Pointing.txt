@@ -10,6 +10,7 @@ iflix.phreakers-team-hfl.ml
 maxstream.phreakers-team-hfl.ml
 opramini.phreakers-team-hfl.ml
 tselopok.phreakers-team-hfl.ml
+booster-games.phreakers-team-hfl.ml
 
 Pemesanan bug khusus bisa chat Facebook : https://www.facebook.com/xroot.xroot.7
 
