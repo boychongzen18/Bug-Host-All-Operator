@@ -1,5 +1,5 @@
 
-Bug Pointing DNS All Operator & All Sosmed 2019
+Bug Pointing All Operator & All Sosmed 2019
 
 Creator Boychongzen aka Xroot
 
@@ -10,3 +10,6 @@ iflix.phreakers-team-hfl.ml
 maxstream.phreakers-team-hfl.ml
 opramini.phreakers-team-hfl.ml
 tselopok.phreakers-team-hfl.ml
+
+Pemesanan bug khusus bisa chat Facebook : https://www.facebook.com/xroot.xroot.7
+
