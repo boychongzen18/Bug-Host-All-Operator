@@ -1,0 +1,16 @@
+Scanning Bug Mola 2019
+
+Creator ® Boychongzen aka Xroot
+
+
+mola.tv
+beta.mola.tv
+cdn01.mola.tv
+cdn02.mola.tv
+cdn03.mola.tv
+cdn04.mola.tv
+cdn05.mola.tv
+drm-test.mola.tv
+stag.mola.tv
+cdn.stag.mola.tv
+staging.mola.tv
