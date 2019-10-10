@@ -8,6 +8,7 @@ tutorial-it.tk
 owner-phreakers-teamhfl.ga
 phreakers-teamhfl.cf
 xroot.alloperatorindo.tk
+maxstream.alloperatorindo.tk
 booster-music.tutorial-it.tk
 opok.tutorial-it.tk
 maxstream.tutorial-it.tk 
