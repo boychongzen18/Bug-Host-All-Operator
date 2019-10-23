@@ -18,6 +18,8 @@ maxstream.tutorial-it.tk
 videomax.tutorial-it.tk
 iflix.tutorial-it.tk
 fb.tutorial-it.tk
+waze-chat.tutorial-it.tk
+xtra-rejeki.tutorial-it.tk
 fb.phreakers-teamhfl.cf 
 biz-starter.tutorial-it.tk 
 yt.phreakers-team-hfl.ml
