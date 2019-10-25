@@ -17,6 +17,8 @@ opok.tutorial-it.tk
 maxstream.tutorial-it.tk 
 videomax.tutorial-it.tk
 iflix.tutorial-it.tk
+apn-xtra-rejeki.tutorial-it.tk
+new-proxy-rejeki.tutorial-it.tk
 fb.tutorial-it.tk
 waze-chat.tutorial-it.tk
 xtra-rejeki.tutorial-it.tk
