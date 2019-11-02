@@ -3,8 +3,7 @@ Scanning Bug Waze 2019
 Created By Boychongzen aka Xroot
 
 
-www.waze.com
-.waze.com
+waze.com
 5.waze.com
 admin.waze.com
 admiral.waze.com
