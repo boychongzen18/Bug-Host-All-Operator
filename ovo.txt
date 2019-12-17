@@ -1,0 +1,31 @@
+Scanning Bug OVO 2019
+
+Created : Boychongzen aka Xroot
+
+
+ovo.id
+api.ovo.id
+apigw01.aws.ovo.id
+bifrost.aws.ovo.id
+consul01.aws.ovo.id
+cb.ovo.id
+cdn01.ovo.id
+alpha.dududev.ovo.id
+finserve.ovo.id
+go.ovo.id
+homepage-dududev.ovo.id
+images-loyalty.ovo.id
+kyc-web.ovo.id
+maintenance.ovo.id
+k8s-api.id03.ntt.ovo.id
+payroll.ovo.id
+pg.ovo.id
+www.pg.ovo.id
+pgdev.ovo.id
+www.pgdev.ovo.id
+ravier.ovo.id
+smtp01.smtpcorp.ovo.id
+smtp02.smtpcorp.ovo.id
+smtp03.smtpcorp.ovo.id
+smtp04.smtpcorp.ovo.id
+smtp05.smtpcorp.ovo.id
