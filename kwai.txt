@@ -1,4 +1,10 @@
-www.kwai.com
+Scanning Bug Kwai.com 2020
+
+Created By Boychongzen aka Xroot
+
+
+
+kwai.com
 agent-adm.kwai.com
 ak-mys-dyapi.kwai.com
 ali-my-api.kwai.com
