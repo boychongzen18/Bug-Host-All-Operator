@@ -13,7 +13,7 @@ bimbel.ruangguru.com
 blog.ruangguru.com
 career.ruangguru.com
 cicilan.ruangguru.com
-rg-video.ruangguru.com<BR>rg-video-staging.ruangguru.com
+rg-video.ruangguru.com
 rg-video.ruangguru.com
 test.ruangguru.com
 core-m-new.ruangguru.com
@@ -26,13 +26,13 @@ gw-staging.ruangguru.com
 hai-online.ruangguru.com
 home.ruangguru.com
 internship.ruangguru.com
-internship.ruangguru.com<BR>www.internship.ruangguru.com
+internship.ruangguru.com
 kelas.ruangguru.com
 landing.ruangguru.com
-landing.ruangguru.com<BR>www.landing.ruangguru.com
+landing.ruangguru.com
 line-to.ruangguru.com
 lineacademy.ruangguru.com
-lineacademy.ruangguru.com<BR>www.lineacademy.ruangguru.com
+lineacademy.ruangguru.com
 mailblaster.ruangguru.com
 map.ruangguru.com
 marketing.ruangguru.com
