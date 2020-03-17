@@ -1,0 +1,33 @@
+New Scanning Bug ilmupedia 2020Created Boychongzen aka Xrootquipper.com
+api.quipper.com
+api2.quipper.com
+api3.quipper.com
+assets.quipper.com
+campus.quipper.com
+career.quipper.com
+cdn.quipper.com
+create.quipper.com
+edge.quipper.com
+email.quipper.com
+entry.quipper.com
+help.quipper.com
+learn.quipper.com
+learn-beta.quipper.com
+learn3.quipper.com
+link.quipper.com
+link2.quipper.com
+o1.mail.quipper.com
+math.quipper.com
+mediacdn.quipper.com
+my.quipper.com
+parent.quipper.com
+payment.quipper.com
+quiz.quipper.com
+school.quipper.com
+static-files.quipper.com
+subscribe.quipper.com
+support.quipper.com
+transfer.quipper.com
+video.quipper.com
+video-cdn.quipper.com
+video-payment.quipper.com
