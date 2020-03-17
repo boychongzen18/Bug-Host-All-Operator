@@ -10,6 +10,7 @@ ruangguru.tutorial-it.tk
 owner-phreakers-teamhfl.ga
 phreakers-teamhfl.cf
 xroot.alloperatorindo.tk
+proxy-ruangguru.alloperatorindo.tk
 hooq.alloperatorindo.tk
 omg.tutorial-it.tk
 vidmax.alloperatorindo.tk
@@ -26,6 +27,7 @@ waze-chat.tutorial-it.tk
 xtra-rejeki.tutorial-it.tk
 fb.phreakers-teamhfl.cf 
 biz-starter.tutorial-it.tk 
+ilmupedia.proxyserver.ml 
 yt.phreakers-team-hfl.ml
 line.phreakers-team-hfl.ml
 axisopok.phreakers-team-hfl.ml
