@@ -1,6 +1,8 @@
-Bug Khusus Gamemax 2020
+Scanning Bug Khusus Gamemax 2020
 
-Creator Boychongzen aka Xroot
+Created Boychongzen aka Xroot
+
+=================================
 
 gamemaxssl.tutorial-it.tk
 
