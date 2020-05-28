@@ -17,3 +17,5 @@ lifeafter.game
 file-igamecj.akamaized.net
 
 filecdn-igamecj.akamaized.net
+
+filecdn.igamecj.com
