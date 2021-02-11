@@ -1,25 +1,11 @@
-# Scanning Bug All Operator Indonesia
+# Scanned Bug All Operator
+![Preview Image](https://img.shields.io/github/last-commit/TheSkinnyRat/Bug-Host-All-Operator?style=flat-square)
+![Preview Image](https://img.shields.io/github/languages/count/TheSkinnyRat/Bug-Host-All-Operator?style=flat-square)
+![Preview Image](https://img.shields.io/github/languages/top/TheSkinnyRat/Bug-Host-All-Operator?style=flat-square)
 
-# Created Boychongzen aka Xroot
+This project is used for testing only.
 
-# Scanning Open Port 80
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_1.png)
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_2.png)
-# Scanning Open Port 443
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug1.jpg)
-
-My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
-
-Link Tutorial : https://youtu.be/BQPRldFNr0U
-
-My Website    : http://hackingforlive.cf
-
-My Facebok    : https://web.facebook.com/xroot.xroot.7
-
-eMAIL         : hackingforlive@yahoo.com      
-
-# Moto : Berbagi Itu Indah
-
-# Regard Boychongzen aka Xroot
+## LICENSE
+> This website is not for sale and not distributed, copyright is fully owned by the developer.\
+> **&copy; [Purwa Sabrang Ramadhan](https://github.com/purwasabrangramadhan) 2020 - All Right Reserved**
 
