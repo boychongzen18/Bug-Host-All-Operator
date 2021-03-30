@@ -1,0 +1,38 @@
+180.250.117.134,301,alias,api.umeetme.id,nginx
+180.250.117.134,301,alias,vsan-cname.playcourt.id,nginx
+180.250.117.134,301,host,vsan-cname.playcourt.org,nginx
+180.250.117.135,301,host,vsan-cname.playcourt.org,nginx
+36.66.3.3,301,host,backend.umeetme.id,nginx
+36.66.4.5,301,host,cms.umeetme.id,nginx/1.16.1
+36.94.47.249,301,host,conf.umeetme.id,nginx
+36.66.4.16,,host,db.umeetme.id,
+36.94.59.78,301,host,dev.umeetme.id,nginx
+185.107.80.233,200,alias,dns.umeetme.id,nginx
+185.107.80.233,200,host,panel.cloudns.net,nginx
+36.94.47.254,301,host,edu.umeetme.id,nginx/1.14.0 (Ubuntu)
+36.66.4.5,301,host,enterprise.umeetme.id,nginx/1.16.1
+36.66.63.177,301,host,gov.umeetme.id,nginx
+180.250.131.254,200,host,gw.umeetme.id,nginx/1.18.0
+103.107.102.160,,host,hello.umeetme.id,
+136.143.191.13,,alias,imap.umeetme.id,
+136.143.191.13,,host,imappro.zoho.com,
+204.141.42.59,500,alias,mail.umeetme.id,ZGS
+204.141.42.59,500,host,business.zoho.com,ZGS
+136.143.190.194,,alias,pop.umeetme.id,
+136.143.190.194,,host,poppro.zoho.com,
+36.66.4.11,200,host,server.umeetme.id,Apache
+136.143.190.56,,alias,smtp.umeetme.id,
+136.143.190.56,,host,smtp.zoho.com,
+36.94.59.78,301,host,staging.umeetme.id,nginx
+180.250.117.135,301,alias,static.umeetme.id,nginx
+180.250.117.135,301,alias,vsan-cname.playcourt.id,nginx
+180.250.117.135,301,host,vsan-cname.playcourt.org,nginx
+180.250.117.134,301,host,vsan-cname.playcourt.org,nginx
+36.66.3.33,301,host,storage.umeetme.id,nginx
+36.91.9.113,302,host,vip.umeetme.id,nginx
+180.250.131.241,403,alias,webmail.umeetme.id,Apache/2.4.6 (CentOS) PHP/5.4.16
+180.250.131.241,403,host,mx01.umeetme.id,Apache/2.4.6 (CentOS) PHP/5.4.16
+180.250.117.134,301,alias,www.umeetme.id,nginx
+180.250.117.134,301,alias,vsan-cname.playcourt.id,nginx
+180.250.117.134,301,host,vsan-cname.playcourt.org,nginx
+180.250.117.135,301,host,vsan-cname.playcourt.org,nginx
