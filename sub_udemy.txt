@@ -1,3 +1,10 @@
+Scanning Bug Subdomain Udemy
+
+Created By Boychongzen aka Xroot
+
+
+#################################################
+
 [#] 1-blackvirus.udemy.com
 [#] 1-ecovidrio.udemy.com
 [#] 10-blackvirus.udemy.com
