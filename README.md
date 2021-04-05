@@ -13,7 +13,7 @@ My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial : https://youtu.be/BQPRldFNr0U
 
-My Website    : http://hackingforlive.cf
+My Website    : https://hackingforlive.wordpress.com
 
 My Facebok    : https://web.facebook.com/xroot.xroot.7
 
