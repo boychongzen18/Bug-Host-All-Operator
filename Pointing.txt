@@ -73,6 +73,9 @@ v2ray.opok.phreakersanonymous.cf
 ##################################
 
 v2ray.tsel.opok.tusbol.cf
+v2ray.edukasi.tusbol.cf
+v2ray.imclass.tusbol.cf
+
 
 
 
