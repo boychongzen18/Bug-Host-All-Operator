@@ -76,6 +76,10 @@ v2ray.tsel.opok.tusbol.cf
 v2ray.edukasi.tusbol.cf
 v2ray.imclass.tusbol.cf
 
+##################################
+
+ilmupedia.boychongen.cf
+ilmupedia.tusbol.cf
 
 
 
