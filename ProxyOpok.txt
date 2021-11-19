@@ -3,6 +3,19 @@ Scanning Proxy Opok Telkomsel 2021
 
 Created Boychongzen aka Xroot
 
+
+desk.covid19.go.id
+cdn.covid19.go.id
+www.covid19.go.id
+data.covid19.go.id
+plasmakonvalesen.covid19.go.id
+git.covid19.go.id
+mail.covid19.go.id
+kipi.covid19.go.id
+mailadmin.covid19.go.id
+lapor.covid19.go.id
+pantau.covid19.go.id
+www1.covid19.go.id
 fastly.jsdelivr.net
 testingcf.jsdelivr.net
 purge.jsdelivr.net
