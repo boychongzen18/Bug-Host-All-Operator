@@ -1,0 +1,27 @@
+Scanning Bughost Primevideo 2021
+
+Creator Boychongzen aka Xroot
+
+
+
+app.primevideo.com
+www.primevideo.com
+atv-ps.primevideo.com
+app-geo.primevideo.com
+web-geo.primevideo.com
+atv-ps-fe.primevideo.com
+fe.primevideo.com
+atv-ps-eu.primevideo.com
+partnercentral.primevideo.com
+preflight-geo.primevideo.com
+na.primevideo.com
+eu.primevideo.com
+internal-campfire-eu.primevideo.com
+internal-campfire-fe.primevideo.com
+preflight.primevideo.com
+apx-security-na.primevideo.com
+apx-security-eu.primevideo.com
+player.primevideo.com
+r.fe.primevideo.com
+r.na.primevideo.com
+r.eu.primevideo.com
