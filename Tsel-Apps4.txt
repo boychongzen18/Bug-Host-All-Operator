@@ -5,6 +5,7 @@ Scanning BugHost Telkomsel Applikasi 2021
 Created Boychongzen aka Xroot
 
 
+smp-device-content.apple.com.edgekey.net
 devimages.apple.com.edgekey.net
 www.apple.com.edgekey.net
 swdist.apple.com.edgekey.net
