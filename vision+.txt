@@ -56,3 +56,14 @@ partners-xiaomi.visionplus.id
 img.visionplus.id
 meet.visionplus.id
 liveanevia.visionplus.id
+
+SUB DOMAIN
+
+visionplus.mncanalytics.id
+login.mncanalytics.id
+dashboards.mncanalytics.id
+builds.mncanalytics.id
+auth.mncanalytics.id
+vplusgraph.mncanalytics.id
+rctiplus.mncanalytics.id
+playbox.mncanalytics.id
