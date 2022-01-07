@@ -4,6 +4,12 @@ Created Boychongzen aka Xroot
 
 
 
+p16-webcast-useast1a.muscdn.com
+p16-webcast-useast2a.muscdn.com
+p16.muscdn.com
+p16-webcast.muscdn.com
+v16.muscdn.com
+v16-webcast.muscdn.com
 v16.muscdn.com
 v24.muscdn.com
 v19.muscdn.com
