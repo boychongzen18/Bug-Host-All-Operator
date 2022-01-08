@@ -9,7 +9,6 @@ Created Boychongzen aka Xroot
 mssdk-va.byteoversea.com
 xlog.byteoversea.com
 speech-alisg.byteoversea.com
-jsb-sg.byteoversea.com
 verify-sg.byteoversea.com
 vas-maliva16.byteoversea.com
 log.byteoversea.com
@@ -84,6 +83,7 @@ dm16-alisg.byteoversea.com
 dm16-useast2a.byteoversea.com
 s16.byteoversea.com
 abtest-sg-tiktok.byteoversea.com
+jsb-sg.byteoversea.com
 gecko-va.byteoversea.com
 vmweb-va.byteoversea.com
 speech-maliva.byteoversea.com
