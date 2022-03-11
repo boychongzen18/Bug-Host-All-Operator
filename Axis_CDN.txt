@@ -1,0 +1,11 @@
+
+
+
+
+
+
+
+b.api.grosir.axis.co.id	104.22.29.102	SSH WS CDN
+lb.api.grosir.axis.co.id	104.22.28.102	SSH WS CDN
+games.axis.co.id	172.67.6.144	SSH WS CDN
+staging.games.axis.co.id	104.22.28.102	SSH WS CDN
