@@ -4,9 +4,6 @@ New Scanning Bug ilmupedia 2020
 Created Boychongzen aka Xroot
 
 
-Server Remote
-104.18.24.139:443
-104.18.25.139:443
 
 zenius.net
 accounts.zenius.net
