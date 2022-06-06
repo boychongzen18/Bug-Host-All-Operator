@@ -1,0 +1,56 @@
+Scanning Bughost Subdomain XL Akrab 2022
+
+Created By Boychongzen aka Xroot
+
+
+Proxy & Port
+104.18.10.39 80/443
+104.18.11.39 80/443 
+
+www.kno2fy.com
+docs.kno2fy.com
+blog.kno2fy.com
+app.kno2fy.com
+mail.kno2fy.com
+tet1.kno2fy.com
+interface-01.kno2fy.com
+ws.kno2fy.com
+kmweb.kno2fy.com
+api.kno2fy.com
+keyhie.kno2fy.com
+auth.kno2fy.com
+wfmonitor.kno2fy.com
+rmtgw.kno2fy.com
+monitors.kno2fy.com
+delivery.kno2fy.com
+errorlogger.kno2fy.com
+great-lakes-vision-care.kno2fy.com
+ismoc.kno2fy.com
+sharecare.kno2fy.com
+collectivemedicaltech.kno2fy.com
+everett-optometry-clinic.kno2fy.com
+mx.kno2fy.com
+smtpauth.kno2fy.com
+relay.kno2fy.com
+mailhost.kno2fy.com
+pain-management-of-north.kno2fy.com
+the-clark-center-for-uro.kno2fy.com
+sharecare-se-osc.kno2fy.com
+momenta-pain-care.kno2fy.com
+collectivemedical.kno2fy.com
+mobheart.kno2fy.com
+sharecare-se-gulf-coast.kno2fy.com
+bsw-rehab-kyle-parkway.kno2fy.com
+nwfm.kno2fy.com
+vstifton.kno2fy.com
+shell-point-retirement.kno2fy.com
+carolinafamilyclinic.kno2fy.com
+familyclinic.kno2fy.com
+achc.kno2fy.com
+consultants-in-arthritis.kno2fy.com
+carequality.kno2fy.com
+bfp.kno2fy.com
+mvc-capegirardeau.kno2fy.com
+meadowbrook.kno2fy.com
+pacific-rehab-puyallup.kno2fy.com
+o1.mail.kno2fy.com
