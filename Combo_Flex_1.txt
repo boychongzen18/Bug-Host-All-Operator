@@ -2,7 +2,9 @@ Scanning Bughost XL Combo Flex 2022
 
 Created By Boychongzen aka Xroot
 
-
+IP 
+	162.159.138.6
+  162.159.138.7
 
 
 
