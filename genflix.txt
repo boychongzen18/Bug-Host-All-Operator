@@ -1,39 +1,41 @@
-Scanning BugHost Genflix 2022
+Scanning Bughost Genflix 2022
+
+Created By Boychongzen aka Xroot
 
 
 
-Created Boychongzen aka Xroot
 
-
-
-prxy.genflix.co.id
-aer-sf.genflix.co.id
-cms.genflix.co.id
+referral.genflix.co.id
 link.genflix.co.id
-aer.genflix.co.id
-iklan.genflix.co.id
+track.genflix.co.id
 assets.genflix.co.id
 member.genflix.co.id
-bo-payment.genflix.co.id
-zabbix.genflix.co.id
-api-dev.genflix.co.id
-old.genflix.co.id
-dev-payment.genflix.co.id
-track.genflix.co.id
+aer-sf.genflix.co.id
 payment.genflix.co.id
-api-devsmart.genflix.co.id
-usp.genflix.co.id
-blog.genflix.co.id
-dev.genflix.co.id
-m.genflix.co.id
-test.genflix.co.id
+bo-payment.genflix.co.id
+cms.genflix.co.id
 devbo-payment.genflix.co.id
+dev-payment.genflix.co.id
+old.genflix.co.id
+m.genflix.co.id
+dev.genflix.co.id
+api-devsmart.genflix.co.id
+www.genflix.co.id
+aer.genflix.co.id
+prxy.genflix.co.id
+iklan.genflix.co.id
+blog.genflix.co.id
+gcp-stg.genflix.co.id
+dev-referral.genflix.co.id
+api-dev.genflix.co.id
+zabbix.genflix.co.id
+usp.genflix.co.id
+test.genflix.co.id
 semar.genflix.co.id
 cdn1.genflix.co.id
 cdn.genflix.co.id
 new.genflix.co.id
 blog-dev.genflix.co.id
-www.genflix.co.id
 api.genflix.co.id
 mail.genflix.co.id
 webmail.genflix.co.id
