@@ -1,0 +1,22 @@
+Scanning Bughost Sub Opok 2022
+
+Created By Boychongzen aka Xroot
+
+
+
+mds.spots.co.id
+odoo-stg.spots.co.id
+loyalty-dev.spots.co.id
+loyalty.spots.co.id
+email.spots.co.id
+mm.spots.co.id
+itmsedc-stg.spots.co.id
+cf-lb-api.spots.co.id
+lb-domain.spots.co.id
+jira.spots.co.id
+mcd.spots.co.id
+api.spots.co.id
+cf-lb.spots.co.id
+bantuan.spots.co.id
+itmsedc.spots.co.id
+www.spots.co.id
