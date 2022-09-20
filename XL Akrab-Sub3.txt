@@ -1,0 +1,16 @@
+Scanning Bughost Subdomain XL Akrab 2022
+
+Created By Boychongzen aka Xroot
+
+
+
+IP 172.67.73.39
+   104.25.5.10
+   104.26.5.10 
+
+
+sni.cloudflaressl.com
+vouchers.fastworldpay.com
+vouchers-staging.fastworldpay.com
+email.fastworldpay.com
+www.fastworldpay.com
