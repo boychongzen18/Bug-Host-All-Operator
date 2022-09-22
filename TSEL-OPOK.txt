@@ -1,44 +1,19 @@
-Scanning Bughost TSEL OPOK 2022
+Scanning Bughost OPOK 2022
 
-Creator Boychongzen aka Xroot
-
-
-
-172.64.103.3
+Created By Boychongzen aka Xroot
 
 
-gita.covid19.go.id
-git.covid19.go.id
-mail.covid19.go.id
-data.covid19.go.id
-cdn.covid19.go.id
-kipi.covid19.go.id
-www.covid19.go.id
-plasmakonvalesen.covid19.go.id
-chat.covid19.go.id
-malladmin.covid19.go.id
-086aeb604c6a.covid19.go.id
-sanglah.covid19.go.id
-data-ahs.covid19.go.id
-dask.covid19.go.id
-wlg.covid19.go.id
-jakartacorona.covid19.go.id
-staging.covid19.go.id
-177staging.covid19.go.id
-situs.covid19.go.id
-dsk.covid19.go.id
-mailadmin.covid19.go.id
-deks.covid19.go.id
-pementasan.covid19.go.id
-tangerang.covid19.go.id
-virus.covid19.go.id
-video.covid19.go.id
-ru82.covid19.go.id
-rully.covid19.go.id
-cfn.covid19.go.id
-zoom.covid19.go.id
-kopok.covid19.go.id
-desk.covid19.go.id
-lapor.covid19.go.id
-pantau.covid19.go.id
-www1.covid19.go.id
+staging-dashboard.skul.id
+apidocs.skul.id
+b2b2c.skul.id
+www.skul.id
+my.skul.id
+dashboard.skul.id
+staging-b2b2c.skul.id
+staging-api.skul.id
+staging-my.skul.id
+video.skul.id
+api.skul.id
+dev.skul.id
+mail-qwords.skul.id
+mail.skul.id
