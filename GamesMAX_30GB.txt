@@ -18,3 +18,8 @@ ovvpn.zebco.com
 ftp.zebco.com
 autodiscover.zebco.com
 sabattus.org
+
+
+
+NB : Belum paham main Openclash di Android & OpenWRT
+     Bisa langsung Chat WA : wa.me/6281230199377
