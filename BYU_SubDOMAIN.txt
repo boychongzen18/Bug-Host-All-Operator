@@ -1,0 +1,28 @@
+Scanning BugHost SubDomain BYU 2022
+
+Created By Boychongzen aka Xroot
+
+
+
+proxy : 104.18.12.204
+
+
+secure.trueid.id
+secure-test.trueid.id
+secure-dev.trueid.id
+secure-stage.trueid.id
+stage.trueid.id
+test.trueid.id
+static-poc.trueid.id
+poc.trueid.id
+static.trueid.id
+c.trueid.id
+static-stage.trueid.id
+dev.trueid.id
+certcheck.trueid.id
+devca.trueid.id
+www.trueid.id
+okta-auth-1.trueid.id
+okta.trueid.id
+api.trueid.id
+cms.trueid.id
