@@ -1,0 +1,20 @@
+Scanning BugHost SubDomain GamesMAX Silver 2022
+
+Created By Boychongzen aka Xroot
+
+
+Proxy : 104.18.21.219
+        104.18.20.219 
+
+www.zebco.com
+dfp.zebco.com
+epi-intg.zebco.com
+epi-prod.zebco.com
+epi-preprod.zebco.com
+mcstaging.zebco.com
+mcprod.zebco.com
+cpsia.zebco.com
+ovvpn.zebco.com
+ftp.zebco.com
+autodiscover.zebco.com
+sabattus.org
