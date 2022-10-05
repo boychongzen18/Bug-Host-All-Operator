@@ -1,0 +1,18 @@
+Scanning BugHost Opok Keluarga XL 2022
+
+Khusus Opsel : Axis, XL & LiveON
+
+Created By Boychongzen aka Xroot
+
+
+pid-webfrontek.liveon.id
+www.liveon.id
+beacon.liveon.id
+support.liveon.id
+id-app.liveon.id
+marketing-api.liveon.id
+espidgc-gke.liveon.id
+pidgc-extoms.liveon.id
+ispidal-aks.liveon.id
+test.liveon.id
+app-backend.liveon.id
