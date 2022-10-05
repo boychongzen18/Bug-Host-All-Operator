@@ -4,6 +4,7 @@ Khusus Opsel : Axis, XL & LiveON
 
 Created By Boychongzen aka Xroot
 
+Proxy : 104.16.53.111
 
 pid-webfrontek.liveon.id
 www.liveon.id
@@ -16,3 +17,8 @@ pidgc-extoms.liveon.id
 ispidal-aks.liveon.id
 test.liveon.id
 app-backend.liveon.id
+
+
+
+
+
