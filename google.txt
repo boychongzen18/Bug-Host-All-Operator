@@ -1,0 +1,27 @@
+Scanning Bughost Google 2022
+
+Created By Boychongzen aka Xroot
+
+
+
+beacons5.gvt2.com
+beacons4.gvt2.com
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons6.gvt2.com
+portus-28443170.gvt2.com
+portus-31804820.gvt2.com
+o-o---preferred---fra---beacons.gvt2.com
+portus.gvt2.com
+beacons-blackholed.gcp.gvt2.com
+beacons-handoff.gcp.gvt2.com
+o-o---preferred---sin11s03---gae-nel-us-central.gcp.gvt2.com
+gae-nel-us-east1.gcp.gvt2.com
+gae-nel-asia-northeast1.gcp.gvt2.com
+gae-nel-us-central.gcp.gvt2.com
+gae-nel-eu-west.gcp.gvt2.com
+gce-us-central1-c.gcp.gvt2.com
+gce-beacons.gcp.gvt2.com
+gce-us-east1-b.gcp.gvt2.com
+beacons.gcp.gvt2.com
