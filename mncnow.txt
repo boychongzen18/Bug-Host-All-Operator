@@ -1,8 +1,57 @@
-Scanning Bughost mncnow 2021
+Scanning Bughost mncnow 2022
 
 Creator Boychongzen aka Xroot
 
-
+static.mncnow.id
+liveanevia.mncnow.id
+api.mncnow.id
+www.mncnow.id
+blog.mncnow.id
+cdn-surge.mncnow.id
+anevia115.mncnow.id
+on-load.mncnow.id
+conversant.mncnow.id
+anevia114.mncnow.id
+live.mncnow.id
+akamai.mncnow.id
+newweb.mncnow.id
+mail.mncnow.id
+web.mncnow.id
+origin-cvs.mncnow.id
+stag.mncnow.id
+pwa.mncnow.id
+rc-api.mncnow.id
+payment.mncnow.id
+cms-1.mncnow.id
+www-1.mncnow.id
+conversantest.mncnow.id
+cdn-stream.mncnow.id
+video-processing.mncnow.id
+test.mncnow.id
+spg.mncnow.id
+rc-ali-api.mncnow.id
+cms.mncnow.id
+cdn.mncnow.id
+webdevhtml5.mncnow.id
+cdn-1.mncnow.id
+old.mncnow.id
+fussball.mncnow.id
+kitkat.mncnow.id
+cdn-test.mncnow.id
+okezone.mncnow.id
+allyoucaneat.mncnow.id
+live02.mncnow.id
+anevia.mncnow.id
+api-1.mncnow.id
+epl-rcti.mncnow.id
+epl-gtv.mncnow.id
+ymncnowy.mncnow.id
+dev.mncnow.id
+xstaticx.mncnow.id
+epl-mnctv.mncnow.id
+epl-inews.mncnow.id
+uam-stag.mncnow.id
+uam-rc.mncnow.id
 api.mncnow.id
 static.mncnow.id
 liveanevia.mncnow.id
