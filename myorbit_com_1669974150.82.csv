@@ -1,0 +1,24 @@
+Scanning Bughost Subdomain Orbit Cloudflare 2022
+
+Created By Boychongzen aka Xroot
+
+
+
+13.33.33.102,200,host,demo.myorbit.com,AmazonS3
+13.33.33.30,200,host,demo.myorbit.com,AmazonS3
+13.33.33.128,200,host,demo.myorbit.com,AmazonS3
+13.33.33.71,200,host,demo.myorbit.com,AmazonS3
+104.18.211.56,301,alias,docs.myorbit.com,cloudflare
+104.18.211.56,301,host,ssl.readmessl.com,cloudflare
+104.18.210.56,301,host,ssl.readmessl.com,cloudflare
+3.226.182.14,301,alias,t.myorbit.com,heroku-router
+3.226.182.14,301,alias,t-myorbit-com.prospectrck.com,heroku-router
+3.226.182.14,301,host,comparative-cockroach-0pw8hz3ecsqx6tp3ye78c8fw.herokudns.com,heroku-router
+54.237.159.171,301,host,comparative-cockroach-0pw8hz3ecsqx6tp3ye78c8fw.herokudns.com,heroku-router
+23.22.5.68,301,host,comparative-cockroach-0pw8hz3ecsqx6tp3ye78c8fw.herokudns.com,heroku-router
+52.21.227.162,301,host,comparative-cockroach-0pw8hz3ecsqx6tp3ye78c8fw.herokudns.com,heroku-router
+198.185.159.144,301,alias,www.myorbit.com,Squarespace
+198.185.159.144,301,host,ext-cust.squarespace.com,Squarespace
+198.49.23.145,301,host,ext-cust.squarespace.com,Squarespace
+198.185.159.145,301,host,ext-cust.squarespace.com,Squarespace
+198.49.23.144,301,host,ext-cust.squarespace.com,Squarespace
