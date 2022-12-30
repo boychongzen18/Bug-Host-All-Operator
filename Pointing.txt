@@ -86,7 +86,8 @@ akrab.boychongzen.online
 akrab.boychongzen.my.id
 ajiz.boychongzen.online
 multi.boychongzen.online
-
+netflix.boychongzen.online
+netflix.barokahnet.xyz
 
 
 Pemesanan bug khusus bisa chat Facebook : https://www.facebook.com/xroot.xroot.7
