@@ -88,6 +88,13 @@ ajiz.boychongzen.online
 multi.boychongzen.online
 netflix.boychongzen.online
 netflix.barokahnet.xyz
+spotify.boychongzen.online
+spotify.barokahnet.xyz
+spotify.boychongzen.my.id
+
+
+
+
 
 
 Pemesanan bug khusus bisa chat Facebook : https://www.facebook.com/xroot.xroot.7
