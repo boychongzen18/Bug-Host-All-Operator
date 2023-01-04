@@ -94,6 +94,8 @@ spotify.boychongzen.my.id
 cloudflare.boychongzen.online
 cloudflare.barokahnet.xyz
 xroot.barokahnet.xyz
+mikocok.boychongzen.online
+mikocok.barokahnet.xyz
 
 
 
