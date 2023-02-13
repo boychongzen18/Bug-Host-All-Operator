@@ -96,6 +96,8 @@ cloudflare.barokahnet.xyz
 xroot.barokahnet.xyz
 mikocok.boychongzen.online
 mikocok.barokahnet.xyz
+vixion.barokahnet.my.id
+vixion.boychongzen.online
 
 
 
