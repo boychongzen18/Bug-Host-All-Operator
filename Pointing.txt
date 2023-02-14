@@ -98,6 +98,8 @@ mikocok.boychongzen.online
 mikocok.barokahnet.xyz
 vixion.barokahnet.my.id
 vixion.boychongzen.online
+opera.barokahnet.my.id
+opera.boychongzen.online
 
 
 
