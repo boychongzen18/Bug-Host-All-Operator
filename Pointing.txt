@@ -102,6 +102,8 @@ opera.barokahnet.my.id
 opera.boychongzen.online
 vidio.barokahnet.my.id
 vidio.boychongzen.online
+atas_multi.boychongzen.online
+atas_multi.barokahnet.my.id
 
 
 
