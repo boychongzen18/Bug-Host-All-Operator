@@ -1,0 +1,50 @@
+Scanning Bughost XL Combo VIP  2023
+
+Created By Boychongzen aka Xroot
+
+
+
+
+allorigin.dev.noice.id	34.111.81.59	FALSE
+api.beta.noice.id	34.117.133.146
+api.dev.noice.id	34.117.55.164	FALSE
+api.uat.noice.id	34.120.106.123	FALSE
+apidemo.noice.id	52.221.254.251	FALSE
+cdn.noice.id  	    104.18.2.198	TRUE
+cdn-aka.dev.noice.id	34.110.213.66	FALSE
+cms.noice.id	3.0.234.188	FALSE
+cms.beta.noice.id	34.101.166.249	FALSE
+cms.dev.noice.id	10.184.0.180	FALSE
+cms.uat.noice.id	10.184.0.181	FALSE
+cmsdemo.noice.id	52.221.254.251	FALSE
+dev-api.noice.id	103.246.184.150	FALSE
+dev-cms.noice.id	103.246.184.150	FALSE
+dev-socket.noice.id	103.246.184.150	FALSE
+ec.noice.id	130.211.26.75	FALSE
+feeds.noice.id	104.18.2.198	TRUE
+images.noice.id	104.18.3.198	TRUE
+images-aka.dev.noice.id	34.117.227.77	FALSE
+kibana.beta.noice.id	34.128.95.199	FALSE
+krakend.dev.noice.id	35.241.11.16	FALSE
+listen.noice.id	99.80.227.4	FALSE
+live.dev.noice.id	34.111.81.59	FALSE
+live.uat.noice.id	34.110.154.74	FALSE
+open.noice.id	104.18.3.198	TRUE
+open.beta.noice.id	199.36.158.100	FALSE
+proxy.beta.noice.id	34.117.150.24	FALSE
+proxy.dev.noice.id	34.120.208.115	FALSE
+proxy.uat.noice.id	34.149.46.206	FALSE
+sharedemo.noice.id	52.221.254.251	FALSE
+socket.noice.id	18.136.128.232	FALSE
+studio.noice.id	34.111.16.213	FALSE
+studio.dev.noice.id	34.111.81.59	FALSE
+studio.uat.noice.id	34.110.154.74	FALSE
+test.noice.id	104.18.2.198	TRUE
+webhook.dev.noice.id	34.120.208.115	FALSE
+www.noice.id	104.18.2.198	TRUE
+www.open.noice.id	199.36.158.100	FALSE
+www.test.noice.id	34.110.154.74	FALSE
+open-uat.noice.id	104.18.2.198	TRUE
+open-dev.noice.id	104.18.2.198	TRUE
+noice.id	104.18.3.198	TRUE
+uat.noice.id	104.18.3.198	TRUE
