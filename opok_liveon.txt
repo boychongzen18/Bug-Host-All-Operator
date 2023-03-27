@@ -1,0 +1,17 @@
+Scanning Bughost LIVEON OPOK UNLIMITED 2023
+
+Created By Boychongzen aka Xroot
+
+
+
+
+marketing-api.liveon.id	34.101.239.43	FALSE
+support.liveon.id	104.16.51.111	104.16.53.111 TRUE
+www.liveon.id	34.96.109.175	FALSE
+liveon.id	34.96.109.175	FALSE
+beacon.liveon.id 104.21.8.121  TRUE
+cpanel.liveon.id	none	
+mail.liveon.id	none	
+webdisk.liveon.id	none	
+webmail.liveon.id	non
+
