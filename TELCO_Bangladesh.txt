@@ -219,7 +219,7 @@ invsmtp01.grameenphone.com
 
 airtel
 
-IP Proxy : 202.134.12.146
+IP Proxy : 	104.26.13.145
 
 www.bd.airtel.com
 backend.bd.airtel.com
