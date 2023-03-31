@@ -1,0 +1,43 @@
+Scanning Bughost Opensignal 2023
+
+Created By Boychongzen aka Xroot
+
+
+		
+
+comp-intel-pr.opensignal.com	10.1.65.187	FALSE
+competitive-intelligence-backend-prod.opensignal.com	54.221.218.227	FALSE
+competitive-intelligence-backend-stag.opensignal.com	34.230.162.161	FALSE
+connect.opensignal.com	199.60.103.228	FALSE
+georesults.opensignal.com	199.60.103.228	FALSE
+it-support.opensignal.com	54.221.218.227	FALSE
+meteor.opensignal.com	44.208.149.75	FALSE
+meteor-stag.opensignal.com	52.54.234.60	FALSE
+mode-pgbouncer.opensignal.com	44.198.142.232	FALSE
+opensignal-api.opensignal.com	44.208.149.75	FALSE
+opensignal-api-stag.opensignal.com	54.147.99.87	FALSE
+partners.opensignal.com	35.160.203.95	FALSE
+platform.opensignal.com	54.221.218.227	FALSE
+platform-admin.opensignal.com	10.1.89.86	FALSE
+platform-admin-stag.opensignal.com	10.1.93.236	FALSE
+platform-admin-test.opensignal.com	10.1.59.6	FALSE
+platform-stag.opensignal.com	34.196.170.29	FALSE
+platform-test.opensignal.com	10.1.65.187	FALSE
+solutions.opensignal.com	54.221.218.227	FALSE
+solutions-admin.opensignal.com	10.1.61.3	FALSE
+solutions-admin-stag.opensignal.com	10.1.93.236	FALSE
+solutions-admin-test.opensignal.com	10.1.65.187	FALSE
+solutions-stag.opensignal.com	54.147.99.87	FALSE
+solutions-test.opensignal.com	10.1.59.6	FALSE
+speedtest-poc-akamai.opensignal.com	2.16.186.9	FALSE
+support.opensignal.com	104.16.51.111	TRUE
+tiles.opensignal.com	52.54.234.60	FALSE
+tiles-prod.opensignal.com	54.221.218.227	FALSE
+tiles-stag.opensignal.com	34.230.162.161	FALSE
+uploadtestae-stag.opensignal.com	23.50.55.49	FALSE
+video-manifest-prod.opensignal.com	54.221.218.227	FALSE
+video-manifest-stag.opensignal.com	34.230.162.161	FALSE
+www.opensignal.com	172.67.68.224	TRUE
+cdn.opensignal.com	104.26.10.155	TRUE
+opensignal.com	44.208.149.75	FALSE
+data-api-stag.opensignal.com	34.239.34.59	FALSE
