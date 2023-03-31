@@ -4,7 +4,8 @@ Created By Boychongzen aka Xroot
 
 
 		
-
+opok_isat.barokahnet.my.id
+sikuning.boychongzen.online
 comp-intel-pr.opensignal.com	10.1.65.187	FALSE
 competitive-intelligence-backend-prod.opensignal.com	54.221.218.227	FALSE
 competitive-intelligence-backend-stag.opensignal.com	34.230.162.161	FALSE
