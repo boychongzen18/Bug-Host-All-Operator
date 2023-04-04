@@ -1,30 +1,15 @@
-XL Opok Aktif ✓ 2019
+Scanning Bughost XL Opok Unlimited 2023
 
-mmc.xl.net.id/servlets/mms ✓ Mode HTTP
-arkansashouseview.com
-kirchemkit.com
 
-123.xl.co.id ✓ Mode HTTP
-web123.xl.co.id
-my.xl.co.id
+Created By Boychongzen aka Xroot
 
-xl.co.id ✓ Mode HTTP
-xplor.xl.co.id
 
-ibn.andreach.co ✓ Mode HTTP
-ibnads.xl.co.id
-ibncloud.xl.co.id
 
-m.elevenia.co.id ✓ Mode HTTP
-api.elevenia.co.id
-cdn.elevenia.co.id
-
-tr.line.me ✓ Mode SSL 
-lgurl.line.me
-
-NB : Jgn lupa untuk cari IP Local yg pas di TKP Masing2
-
-bisa pakai All Apk
-
-====================================
-Regard Boychongzen aka Xroot
+apps.skypeassets.com	23.0.212.254	FALSE
+origin-secure.skypeassets.com	204.9.163.185	FALSE
+secure.skypeassets.com	184.30.20.136	FALSE
+www.skypeassets.com	184.86.251.151	FALSE
+ads.skypeassets.com	none
+beta.skypeassets.com	none	
+static.skypeassets.com	none
+skypeassets.com     none
