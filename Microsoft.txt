@@ -1,8 +1,8 @@
-Scanning BugHost Edukasi 2021
+Scanning BugHost  XL Opok 2023
 
 Created Boychongzen aka Xroot
 
-presence.teams.microsoft.com
+
 config.teams.microsoft.com
 scheduler.teams.microsoft.com
 urlshortener.teams.microsoft.com
@@ -28,6 +28,7 @@ analytics.teams.microsoft.com
 amer-webhook.teams.microsoft.com
 devicemgmt-cdn.teams.microsoft.com
 plat.teams.microsoft.com
+presence.teams.microsoft.com
 appsuggestions.teams.microsoft.com
 cehclient-canary.teams.microsoft.com
 cpcapi-prod.teams.microsoft.com
