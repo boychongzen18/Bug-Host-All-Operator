@@ -1,4 +1,4 @@
-Scanning Bughost Subdomain XL Akrab 2022
+Scanning Bughost XL Opok Unlimited  2023
 
 Created By Boychongzen aka Xroot
 
@@ -6,103 +6,49 @@ Created By Boychongzen aka Xroot
 
 
 
-g.live.com
-office.live.com
-officeapps.live.com
-api.live.com
-to-do.live.com
-www.live.com
-postmaster.live.com
-profile.live.com
-people.live.com
-signup.live.com
-smtp.live.com
-calendar.live.com
-outlook.live.com
-mid.live.com
-c.live.com
-spaces.live.com
-sync.live.com
-buy.live.com
-local.live.com
-login.live.com
-writer.live.com
-teams.live.com
-outlook-sdf.live.com
-storage.live.com
-oauth.live.com
-account.live.com
-onedrivemobile.live.com
-setupbootstrapper.live.com
-messenger.live.com
-fss.live.com
-help.live.com
-outlook-fd-0010.live.com
-concierge.live.com
-alerts.live.com
-webmaster.live.com
-maps.live.com
-ssw.live.com
-lists.live.com
-skydrive.live.com
-download.live.com
-mail.live.com
-choice.live.com
-schemas.live.com
-onedrive.live.com
-accounts.live.com
-rad.live.com
-hotmail.live.com
-shared.live.com
-tou.live.com
-home.live.com
-devices.live.com
-favorites.live.com
-print.live.com
-ssl.live.com
-search.live.com
-explore.live.com
-msagfx.live.com
-club.live.com
-officeapps-df.live.com
-images.live.com
-mapindia.live.com
-localsearch.live.com
-mpeople.live.com
-photogallery.live.com
-dev.live.com
-feedback.live.com
-onecare.live.com
-groups.live.com
-sup.live.com
-translator.live.com
-consent.live.com
-maccount.live.com
-analytics.live.com
-rtlc.live.com
-gallery.live.com
-safety.live.com
-pop3.live.com
-api-df.live.com
-s2s-storage.live.com
-mhome.live.com
-my.live.com
-skygfx.live.com
-skypewebexperience.live.com
-outlookads.live.com
-events.live.com
-ideas.live.com
-nexus.live.com
-apps.live.com
-busbuy.live.com
-gadgets.live.com
-homeconcierge.live.com
-msm.live.com
-aidps.live.com
-vodafone.live.com
-support.live.com
-alayedoubleup.live.com
-outlook-fd-0009.live.com
-videos.live.com
-video.live.com
-mindia.live.com
+
+amer-webhook.teams.live.com	20.106.10.209	
+apac-webhook.teams.live.com	20.210.132.127	
+emea-webhook.teams.live.com	20.101.7.197	
+int-webhook.teams.live.com	20.252.56.166	
+sf-int-webhook.teams.live.com	20.252.56.166	
+ privacy.teams.live.com	52.113.194.133	
+test.chatsvcagg.teams.live.com	20.190.22.48	
+test.csa.teams.live.com	20.190.22.48	
+login.teams.live.com	52.113.194.133	
+teams.live.com	52.113.194.132	
+test.cachewriter.teams.live.com	20.190.22.60	
+chatsvcagg.teams.live.com	13.86.36.124	
+csa.teams.live.com	13.86.36.124	
+df.chatsvcagg.teams.live.com	52.149.63.83	
+df.csa.teams.live.com	52.149.63.83	
+int.chatsvcagg.teams.live.com	20.59.41.2	
+amer.cachewriter.teams.live.com	20.97.75.177	
+df.cachewriter.teams.live.com	52.149.63.230	
+int.cachewriter.teams.live.com	52.149.63.230	
+groups.prod.teams.live.com
+teamsopenaisvc.prod.teams.live.com	
+middletier.nonprod.teams.live.com	
+groups.nonprod.teams.live.com	
+searchsvc.nonprod.teams.live.com	
+packagedeliveryservice.nonprod.teams.live.com	
+packagedeliveryservice.prod.teams.live.com	
+authsvc.nonprod.teams.live.com	
+teamsopenaisvc.nonprod.teams.live.com	
+notifsvc.nonprod.teams.live.com	none	
+authsvc.prod.teams.live.com	none	
+middletier.prod.teams.live.com	
+notifsvc.prod.teams.live.com	
+certdemo.nonprod.teams.live.com	
+certbrownbag.nonprod.teams.live.com	
+grnit.prod.teams.live.com		
+grnit.nonprod.teams.live.com		
+ss.nonprod.teams.live.com		
+ss.prod.teams.live.com	
+settingsstore.prod.teams.live.com	
+settingsstore.nonprod.teams.live.com	
+int.csa.teams.live.com	none	
+msft.chatsvcagg.teams.live.com	
+msft.csa.teams.live.com	none	
+cachewriter.teams.live.com	
+authsvc.tfl.teams.live.com	
