@@ -112,6 +112,8 @@ atas_multi.boychongzen.online
 atas_multi.barokahnet.my.id
 opok_isat.barokahnet.my.id
 sikuning.boychongzen.online
+ajiz.opok.barokahnet.my.id
+ungu.ngopok.boychongzen.online
 
 
 
