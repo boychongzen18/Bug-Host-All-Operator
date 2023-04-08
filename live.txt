@@ -6,7 +6,8 @@ Created By Boychongzen aka Xroot
 
 
 
-
+ajiz.opok.barokahnet.my.id
+ungu.ngopok.boychongzen.online
 amer-webhook.teams.live.com	20.106.10.209	
 apac-webhook.teams.live.com	20.210.132.127	
 emea-webhook.teams.live.com	20.101.7.197	
