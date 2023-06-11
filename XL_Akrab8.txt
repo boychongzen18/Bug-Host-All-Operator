@@ -1,0 +1,50 @@
+Scanning Bughost Subdomain XL Akrab 2023
+
+Created By Boychongzen aka Xroot
+
+Khusus Pengelola & Anggota Ready
+
+
+buy.netvisor.fi	
+buy-dev.netvisor.fi	
+buy-stg.netvisor.fi	
+cdn.netvisor.fi	
+cdn-demo.netvisor.fi	
+cdn-dev.netvisor.fi	
+cdn-stg.netvisor.fi	
+cloud.netvisor.fi	
+cloud-demo.netvisor.fi	
+cloud-dev.netvisor.fi	
+cloud-prod.netvisor.fi	
+cloud-stg.netvisor.fi	
+component-library-docs.netvisor.fi	
+escan.netvisor.fi	
+hinta.netvisor.fi	
+ info.netvisor.fi	
+integration.netvisor.fi	
+internal-demo-aws.netvisor.fi	
+internal-development-aws.netvisor.fi	
+internal-infrateam-aws.netvisor.fi	
+internal-production-aws.netvisor.fi	
+internal-staging-aws.netvisor.fi	
+isvapi.netvisor.fi	
+koulutus.netvisor.fi	
+laskuri.netvisor.fi	
+login.netvisor.fi	
+login-dev.netvisor.fi	
+login-stg.netvisor.fi	
+m.netvisor.fi	
+marketplace.netvisor.fi	
+monitoring.netvisor.fi	
+myynti.netvisor.fi	
+nvc-poc.netvisor.fi	
+staging.netvisor.fi	
+suomi.netvisor.fi	
+suomi-ao-netvisorgateway.netvisor.fi	
+support.netvisor.fi	
+tarjous.netvisor.fi	
+tarjous2.netvisor.fi	
+teleport-dev.netvisor.fi	
+teleport-stg.netvisor.fi	
+video.netvisor.fi	
+www.netvisor.fi	
