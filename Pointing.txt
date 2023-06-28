@@ -86,7 +86,7 @@ akrab.boychongzen.online
 akrab.boychongzen.my.id
 akrab-atas.boychongzen.my.id
 whatsapp.boychongzen.online
-whatsapp.barokahnet.my.id
+line.boychongzen.online
 line.barokahnet.my.id
 line.boychongzen.online
 zaky.barokahnet.xyz
