@@ -118,6 +118,7 @@ klepon_anti_malak.barokahnet.my.id
 klepon_anti_malak.boychongzen.online
 game.boychongzen.online
 game.barokahnet.xyz
+proxy.boychongzen.online
 
 
 
