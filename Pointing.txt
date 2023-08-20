@@ -120,6 +120,7 @@ game.boychongzen.online
 game.barokahnet.xyz
 proxy.boychongzen.online
 si.biru.boychongzen.online
+genflix.boychongzen.online
 
 
 
