@@ -129,6 +129,11 @@ opok.boychongzen.online
 liveon.ipv4.boychongzen.online
 ilped.boychongzen.online
 ilped.barokahnet.my.id
+rx.king.barokahnet.my.id
+king.card.barokahnet.my.id
+xl.king.barokahnet.my.id
+
+
 
 
 
