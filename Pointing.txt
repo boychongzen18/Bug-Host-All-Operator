@@ -134,7 +134,7 @@ king.card.barokahnet.my.id
 xl.king.barokahnet.my.id
 grabtaxi.barokahnet.my.id
 grab.barokahnet.my.id 
-
+chat.barokahnet.my.id 
 
 
 
