@@ -1,0 +1,18 @@
+Subdomain,IP,Cloudflare
+api.di-partner-stg.gojekapi.com,13.250.166.29,false
+api.di-partner.gojekapi.com,34.87.79.101,false
+api.gojekapi.com,34.120.226.254,false
+go-agent.gojekapi.com,35.221.222.241,false
+gocorp-payments-integration.gojekapi.com,34.81.22.227,false
+ gofood-web.gojekapi.com,34.96.73.197,false
+gopaycc.gojekapi.com,52.77.114.28,false
+integration-go-agent.gojekapi.com,35.194.148.21,false
+integration-goauth.gojekapi.com,34.149.74.180,false
+integration-partners-kong.gojekapi.com,35.201.158.62,false
+integration-partners.gojekapi.com,34.126.122.87,false
+sandbox-api.di-partner.gojekapi.com,34.126.93.181,false
+tokopedia.partners-staging-internal.gojekapi.com,10.200.176.130,false
+tokopedia.partners-staging.gojekapi.com,34.142.217.17,false
+web-staging.di-partner.gojekapi.com,34.126.93.181,false
+web.di-partner.gojekapi.com,34.87.79.101,false
+wonderland-153.gojekapi.com,10.200.128.2,false
