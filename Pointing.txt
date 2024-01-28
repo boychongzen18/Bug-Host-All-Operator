@@ -139,7 +139,8 @@ proxy.barokahnet.my.id
 facebook.barokahnet.my.id
 edukasi.barokahnet.my.id
 edukasi.mikocok.my.id
-
+klepon.mikocok.my.id
+klepon.barokahnet.my.id
 
 
 
