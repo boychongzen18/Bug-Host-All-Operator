@@ -140,6 +140,7 @@ facebook.barokahnet.my.id
 edukasi.barokahnet.my.id
 edukasi.mikocok.my.id
 klepon.mikocok.my.id
+liveon.mikocok.my.id
 klepon.barokahnet.my.id
 mlbb.barokahnet.my.id
 
