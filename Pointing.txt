@@ -144,6 +144,7 @@ liveon.mikocok.my.id
 klepon.barokahnet.my.id
 mlbb.barokahnet.my.id
 proteksi.barokahnet.my.id
+wlg.barokahnet.my.id
 
 
 
