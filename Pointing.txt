@@ -145,6 +145,7 @@ klepon.barokahnet.my.id
 mlbb.barokahnet.my.id
 proteksi.barokahnet.my.id
 wlg.barokahnet.my.id
+combo_plus.barokahnet.my.id
 
 
 
