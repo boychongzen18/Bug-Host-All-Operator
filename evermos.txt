@@ -1,0 +1,60 @@
+Scanning Bughost evermos  2024
+
+Created By Boychongzen aka Xroot
+
+
+
+
+api-dev.evermos.com	104.18.18.81
+app-staging.evermos.com	52.209.121.193
+app.evermos.com	99.80.227.4
+asgard.evermos.com	104.18.18.81
+assets.evermos.com	104.18.19.81
+attendance.evermos.com	103.186.1.223
+blog.evermos.com	104.18.18.81
+brand-edu.evermos.com	216.24.57.3
+branddashboard-sandbox.evermos.com	104.18.18.81
+branddashboard.evermos.com	104.18.19.81
+cara-kerja.evermos.com	18.139.12.160
+cdn.evermos.com	104.18.19.81
+contoh.evermos.com	18.139.12.160
+daftar.evermos.com	178.128.56.125
+daftarreseller.evermos.com	13.250.83.16
+dashboard-h2h-dev.digital-products.evermos.com	18.139.241.207
+dashboard-h2h.digital-products.evermos.com	104.18.18.81
+desa.evermos.com	52.221.65.137
+ekonomi-umat.evermos.com	13.250.83.16
+home-2.evermos.com	13.250.83.16
+home-new.evermos.com	13.250.83.16
+home.evermos.com	13.250.83.16
+imgproxy-new.evermos.com	104.18.18.81
+impact.evermos.com	13.250.83.16
+itticketing.evermos.com	103.186.1.223
+k8s.evermos.com	18.139.12.160
+katalog.evermos.com	104.18.19.81
+komunitas.evermos.com	104.18.19.81
+lp.evermos.com	104.18.19.81
+metabase.evermos.com	54.254.48.157
+mitra.evermos.com	104.18.18.81
+partner.evermos.com	103.82.240.52
+peta-situs.evermos.com	18.139.12.160
+pms.evermos.com	104.18.18.81
+portal.evermos.com	142.250.185.179
+preview.evermos.com	18.140.24.251
+produk.evermos.com	18.139.12.160
+reseller-sandbox.evermos.com	104.18.18.81
+risk-register.evermos.com	20.188.123.121
+sign.evermos.com	35.189.180.252
+staging.evermos.com	18.140.24.251
+stockist-edu.evermos.com	216.24.57.3
+stockistdashboard.evermos.com	104.18.19.81
+storefront-sandbox.evermos.com	52.221.65.137
+syariah.evermos.com	104.18.19.81
+tanya-jawab.evermos.com	103.82.240.52
+training.evermos.com	13.250.83.16
+trainingonline.evermos.com	136.243.153.239
+usahasampingan.evermos.com	104.18.18.81
+workspace.evermos.com	52.221.65.137
+www.blog.evermos.com	13.250.83.16
+www.evermos.com	104.18.18.81
+www.partner.evermos.com	159.89.201.2
