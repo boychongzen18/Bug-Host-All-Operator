@@ -143,6 +143,7 @@ klepon.mikocok.my.id
 liveon.mikocok.my.id
 klepon.barokahnet.my.id
 mlbb.barokahnet.my.id
+edu30.barokahnet.my.id
 proteksi.barokahnet.my.id
 wlg.barokahnet.my.id
 combo_plus.barokahnet.my.id
