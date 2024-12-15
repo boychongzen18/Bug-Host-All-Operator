@@ -1,0 +1,33 @@
+Scanning BugHost SubDomain VIU 2024
+
+Created By Boychongzen aka Xroot
+
+
+
+
+official.vuclip.com	34.107.159.90 	
+health.vuclip.com	34.107.159.90 	 
+cms.vuclip.com	35.244.248.175 	 
+helm.vuclip.com	34.70.218.85 	 
+p.vuclip.com	35.192.71.33 	 
+sports.vuclip.com	34.107.159.90 	 
+partner.vuclip.com	34.107.181.68 	 
+corp.vuclip.com	34.107.159.90 	 
+live.vuclip.com	151.101.65.195 	 
+stats.vuclip.com	35.201.96.142 	
+api.vuclip.com	34.107.159.90 	 
+m.vuclip.com	34.107.159.90 	 
+a3.vuclip.com	34.107.159.90 	 
+art.vuclip.com	34.107.159.90 	 
+autodiscover.vuclip.com	127.0.0.1 	
+zaintest.vuclip.com  172.64.149.213 
+test.vuclip.com	34.111.4.202 	
+bd.vuclip.com	130.211.203.122 	
+beta.vuclip.com	34.107.133.213 	 
+tools.vuclip.com	34.107.159.90 	 
+i.vuclip.com	35.192.71.33 	 
+msoid.vuclip.com	20.190.147.4 	
+edu.vuclip.com	34.107.159.90 	 
+news.vuclip.com	34.107.159.90 	 
+newsletter.vuclip.com	91.192.43.153 	
+intranet.vuclip.com	142.250.178.147 	 
