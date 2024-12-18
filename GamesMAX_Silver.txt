@@ -5,7 +5,9 @@ Created By Boychongzen aka Xroot
 
 
 Proxy : 104.18.30.102
+        104.21.16.1
 
+beta.examgyani.com
 dev.examgyani.com
 learn.examgyani.com
 www.examgyani.com
