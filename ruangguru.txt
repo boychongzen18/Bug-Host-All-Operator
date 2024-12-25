@@ -1,61 +1,90 @@
-New Scanning Bug ruangguru 2020
+New Scanning Bug ruangguru 2024
 
 Created Boychongzen aka Xroot
 
 
-ruangguru.com
-admin-rg.ruangguru.com
-aliyun-cdn.ruangguru.com
-audisi.ruangguru.com
-backend.ruangguru.com
-bayar.ruangguru.com
-bimbel.ruangguru.com
-blog.ruangguru.com
-career.ruangguru.com
-cicilan.ruangguru.com
-rg-video.ruangguru.com
-rg-video.ruangguru.com
-test.ruangguru.com
-core-m-new.ruangguru.com
-event.ruangguru.com
-gorontalo.ruangguru.com
-gov.ruangguru.com
-govadmin.ruangguru.com
-gw.ruangguru.com
-gw-staging.ruangguru.com
-hai-online.ruangguru.com
-home.ruangguru.com
-internship.ruangguru.com
-internship.ruangguru.com
-kelas.ruangguru.com
-landing.ruangguru.com
-landing.ruangguru.com
-line-to.ruangguru.com
-lineacademy.ruangguru.com
-lineacademy.ruangguru.com
-mailblaster.ruangguru.com
-map.ruangguru.com
-marketing.ruangguru.com
-mitra.ruangguru.com
-oldtes.ruangguru.com
-orangtua.ruangguru.com
-payment.ruangguru.com
-promo.ruangguru.com
-promo.ruangguru.com<BR>www.promo.ruangguru.com
-repayment-cdn.ruangguru.com
-rg-video.ruangguru.com
-rg-video-staging.ruangguru.com
-rubel-video-cdn.ruangguru.com
-rubel-video-cdn-three.ruangguru.com
-rubel-video-cdn-two.ruangguru.com
-sekolahonline.ruangguru.com
-staging.ruangguru.com
-tes.ruangguru.com
-test.ruangguru.com
-to.ruangguru.com
-to3.ruangguru.com
-tracker.ruangguru.com
-tryout.ruangguru.com
-uji.ruangguru.com
-video.ruangguru.com
-wiris.ruangguru.com
+
+
+ads.ruangguru.com	104.22.20.245	
+asuransi.ruangguru.com	104.22.21.245	
+audisi.ruangguru.com	104.22.20.245	
+avatar-shop-cdn.ruangguru.com	34.160.75.63	
+belajar.ruangguru.com	104.22.21.245	
+bimbel.ruangguru.com	104.22.21.245	
+blog.ruangguru.com	104.22.20.245	
+bts.ruangguru.com	104.22.20.245	
+cdn-web-2.ruangguru.com	43.175.232.65	
+cdn-web.ruangguru.com	43.175.232.65	
+cdn.meet.ruangguru.com	169.254.254.254	
+champion.ruangguru.com	104.22.20.245	
+cicilan.ruangguru.com	172.67.22.129	
+coc-status.ruangguru.com	142.132.149.97	
+cx.ruangguru.com	216.198.53.1	
+diskon.ruangguru.com	104.22.21.245	
+dukungcoc.ruangguru.com	104.22.20.245	
+event.ruangguru.com	104.22.21.245	
+game-prod-cdn.ruangguru.com	43.175.233.73	
+get.ruangguru.com	172.67.22.129	
+id-oc.ruangguru.com	13.32.145.39	
+id-video-bundler.ruangguru.com	34.160.75.63	
+img-avatar-shop-vn.ruangguru.com	34.160.75.63	
+img-avatar-shop.ruangguru.com	43.175.232.65	
+img-certificate.ruangguru.com	43.175.233.73	
+img-core.ruangguru.com	157.185.128.14	
+img-live-classroom.ruangguru.com	34.160.75.63	
+img-parental-report.ruangguru.com	34.160.75.63	
+img-question-vn.ruangguru.com	34.160.75.63	
+img-roboguru.ruangguru.com	34.160.75.63	
+img-ruangguru-gam.ruangguru.com	34.160.75.63	
+img-ruangguru-uji.ruangguru.com	34.160.75.63	
+img-video-tracking-th.ruangguru.com	108.138.233.33	
+img-video-tracking-vn.ruangguru.com	18.164.68.42	
+img-video-tracking.ruangguru.com	13.32.145.15	
+img-vote.ruangguru.com	34.160.75.63	
+img.ruangguru.com	34.160.75.63	
+imgix.ruangguru.com	43.175.232.65	
+imgix2.ruangguru.com	43.175.233.73	
+imgix3.ruangguru.com	43.175.233.73	
+internship.ruangguru.com	104.22.20.245	
+io.ruangguru.com	104.22.21.245	
+ivq-image.ruangguru.com	34.160.75.63	
+kampusmerdeka.ruangguru.com	104.22.21.245	
+kelas-cdn.ruangguru.com	34.160.75.63	
+layanan.ruangguru.com	104.22.20.245	
+leap.ruangguru.com	104.22.21.245	
+liga.ruangguru.com	172.67.22.129	
+lineacademy.ruangguru.com	104.22.21.245	
+map.ruangguru.com	104.22.20.245	
+marketing.ruangguru.com	104.22.20.245	
+me.ruangguru.com	104.22.21.245	
+mitra.ruangguru.com	104.22.20.245	
+orangtua.ruangguru.com	172.67.22.129	
+pdf-cdn.ruangguru.com	43.175.233.73	
+pensi.ruangguru.com	172.67.22.129	
+promo.ruangguru.com	104.22.21.245	
+rea.ruangguru.com	172.67.22.129	
+repayment-cdn.ruangguru.com	34.160.75.63	
+rg-whatsapp-proxy-internal.ruangguru.com	172.16.5.72	
+roboguru-forum-cdn.ruangguru.com	43.175.233.73	
+roboguru-ui.ruangguru.com	172.67.22.129	
+roboguru.ruangguru.com	172.67.22.129	
+roboguruinfo.ruangguru.com	104.22.21.245	
+ruang-certificate-cdn.ruangguru.com	43.175.232.65	
+ruangguru-gam-cdn.ruangguru.com	34.160.75.63	
+rubel-video-cdn-three.ruangguru.com	34.104.34.180	
+rubel-video-cdn-two.ruangguru.com	169.254.254.254	
+rubel-video-cdn.ruangguru.com	43.132.66.54	
+sekolahonline.ruangguru.com	104.22.21.245	
+star.ruangguru.com	172.67.22.129	
+th-oc.ruangguru.com	216.137.44.37	
+tps.ruangguru.com	172.67.22.129	
+tryout.ruangguru.com	172.67.22.129	
+utbk.ruangguru.com	172.67.22.129	
+video-thumbnail.ruangguru.com	34.160.75.63	
+vn-oc.ruangguru.com	18.245.162.7	
+www-blog-staging.ruangguru.com	43.175.233.73	
+www.blog.ruangguru.com	35.197.156.138	
+www.kelas.ruangguru.com	104.22.20.245	
+www.ruangguru.com	43.175.233.73	
+www.tryout.ruangguru.com	35.197.156.138	
+		
