@@ -1,28 +1,43 @@
-Scanning Bughost Genflix 2023
+Scanning Bughost Genflix Update 2025
 
 Created By Boychongzen aka Xroot
 
 
 
 
-referral.genflix.co.id
-link.genflix.co.id
-track.genflix.co.id
-assets.genflix.co.id
-member.genflix.co.id
-aer-sf.genflix.co.id
-payment.genflix.co.id
-bo-payment.genflix.co.id
-cms.genflix.co.id
-devbo-payment.genflix.co.id
-dev-payment.genflix.co.id
-old.genflix.co.id
-m.genflix.co.id
-dev.genflix.co.id
-api-devsmart.genflix.co.id
-www.genflix.co.id
-aer.genflix.co.id
-prxy.genflix.co.id
+aer-sf.genflix.co.id	149.129.243.84	FALSE
+aer.genflix.co.id	149.129.243.84	FALSE
+alicdn.genflix.co.id	47.246.50.184	FALSE
+app.genflix.co.id	162.159.140.159	TRUE
+assets.genflix.co.id	149.129.243.84	FALSE
+bo-payment.genflix.co.id	149.129.243.84	FALSE
+cms.genflix.co.id	149.129.243.84	FALSE
+dev-partner.genflix.co.id	149.129.247.235	FALSE
+dev-payment.genflix.co.id	149.129.247.235	FALSE
+dev-referral.genflix.co.id	149.129.247.235	FALSE
+devbo-payment.genflix.co.id	149.129.247.235	FALSE
+gcp-dev.genflix.co.id	34.111.209.81	FALSE
+gcp-stg.genflix.co.id	104.21.30.242	TRUE
+iklan.genflix.co.id	149.129.243.84	FALSE
+jenkins-macmini.genflix.co.id	104.21.30.242	TRUE
+jenkins.genflix.co.id	18.143.132.236	FALSE
+link.genflix.co.id	151.101.1.195	FALSE
+mail.genflix.co.id	117.54.5.20	FALSE
+media.genflix.co.id	34.104.32.13	FALSE
+member.genflix.co.id	149.129.243.84	FALSE
+partner.genflix.co.id	149.129.243.84	FALSE
+payment.genflix.co.id	149.129.243.84	FALSE
+prd.genflix.co.id	104.21.30.242	TRUE
+prxy2.genflix.co.id	149.129.242.133	FALSE
+referral.genflix.co.id	149.129.243.84	FALSE
+semar.genflix.co.id	18.245.175.67	FALSE
+staging.genflix.co.id	149.129.247.235	FALSE
+track.genflix.co.id	117.54.9.47	FALSE
+vod-cdn.genflix.co.id	47.246.50.186	FALSE
+vod.genflix.co.id	23.90.186.162	FALSE
+webmail.genflix.co.id	117.54.5.20	FALSE
+www.genflix.co.id	172.67.174.51	TRUE
+zabbix.genflix.co.id	149.129.247.235	FALSE
 iklan.genflix.co.id
 blog.genflix.co.id
 gcp-stg.genflix.co.id
