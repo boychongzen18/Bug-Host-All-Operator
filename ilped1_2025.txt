@@ -1,0 +1,71 @@
+Scanning BugHost New Ilped 2025
+
+
+
+Created Boychongzen aka Xroot
+
+
+
+
+academic-dev.bakrie.ac.id	104.20.6.62	
+admissions.bakrie.ac.id	104.20.7.62	
+akuntansi.bakrie.ac.id	104.20.6.62	
+alumni.bakrie.ac.id	104.20.7.62	
+asset.bakrie.ac.id	104.20.7.62	
+autodiscover.bakrie.ac.id	203.99.130.115	
+baa.bakrie.ac.id	104.20.6.62	
+bakrie-dev.bakrie.ac.id	104.20.6.62	
+bakrie-vuln.bakrie.ac.id	104.20.7.62	
+beasiswaalumni.bakrie.ac.id	104.20.6.62	
+big.bakrie.ac.id	104.20.6.62	
+bima.bakrie.ac.id	104.20.7.62	
+bti.bakrie.ac.id	202.157.187.224	
+cobamoodle.bakrie.ac.id	104.20.7.62	
+daftar.bakrie.ac.id	104.20.6.62	
+daniel.bti.bakrie.ac.id	103.119.147.40	
+dev.bakrie.ac.id	104.20.7.62	
+digilib.bakrie.ac.id	104.20.6.62	
+dosen.bakrie.ac.id	104.20.7.62	
+endowment.bakrie.ac.id	104.20.7.62	
+espmi.bakrie.ac.id	104.20.6.62	
+helpdesk.bakrie.ac.id	104.20.6.62	
+ilmukomunikasi.bakrie.ac.id	104.20.6.62	
+ilmupolitik.bakrie.ac.id	104.20.6.62	
+incubator.bakrie.ac.id	104.20.7.62	
+informatika.bakrie.ac.id	104.20.7.62	
+internationaloffice.bakrie.ac.id	104.20.7.62	
+jacob.bakrie.ac.id	104.20.7.62	
+journal.bakrie.ac.id	104.20.7.62	
+kampleng.bakrie.ac.id	104.20.6.62	
+kuliahkaryawan.bakrie.ac.id	104.20.6.62	
+laboratorium.bakrie.ac.id	104.20.7.62	
+library.bakrie.ac.id	104.20.6.62	
+library1.bakrie.ac.id	104.20.6.62	
+lpkm.bakrie.ac.id	104.20.6.62	
+lpp.bakrie.ac.id	104.20.7.62	
+magisterkomunikasi.bakrie.ac.id	104.20.7.62	
+magistermanajemen.bakrie.ac.id	104.20.6.62	
+mail.bakrie.ac.id	203.99.130.115	
+manajemen.bakrie.ac.id	104.20.6.62	
+monitor.bakrie.ac.id	104.20.6.62	
+moodle-dev.bakrie.ac.id	104.20.7.62	
+news-dev.bakrie.ac.id	104.20.7.62	
+news.bakrie.ac.id	104.20.6.62	
+ojs.bakrie.ac.id	104.20.7.62	
+repository-dev.bakrie.ac.id	104.20.6.62	
+repository.bakrie.ac.id	104.20.7.62	
+sdgs.bakrie.ac.id	104.20.7.62	
+sisteminformasi.bakrie.ac.id	104.20.6.62	
+slims.bakrie.ac.id	104.20.7.62	
+smart-dev.bakrie.ac.id	104.20.7.62	
+sso-dev.bakrie.ac.id	104.20.6.62	
+teknikindustri.bakrie.ac.id	104.20.7.62	
+tekniklingkungan.bakrie.ac.id	216.239.32.21	
+tekniksipil.bakrie.ac.id	104.20.6.62	
+teknologipangan.bakrie.ac.id	216.239.32.21	
+textbook.bakrie.ac.id	104.20.7.62	
+ubakriepress.bakrie.ac.id	104.20.6.62	
+uptmutu.bakrie.ac.id	104.20.6.62	
+usm-dev.bakrie.ac.id	104.20.6.62	
+www.bakrie.ac.id	104.20.6.62	
+		
