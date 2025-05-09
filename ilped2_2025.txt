@@ -1,0 +1,140 @@
+
+Scanning BugHost New Ilped 2025
+
+
+
+Created Boychongzen aka Xroot
+
+
+
+
+
+20-nov-04.midtrans.com	35.240.214.60	
+28-november.staging.midtrans.com	54.151.238.138	
+account.midtrans.com	104.26.14.196	
+akulaku-psp.midtrans.com	46.137.248.76	
+akulaku-psp.sandbox.midtrans.com	34.87.182.53	
+akulaku-psp.stg.midtrans.com	54.151.238.138	
+ap-gateway-mastercard.midtrans.com	43.218.145.225	
+api-cybersource.midtrans.com	16.78.124.49	
+api-id.midtrans.com	43.218.145.225	
+api-id.stg.midtrans.com	43.218.97.2	
+api-mp.integration.midtrans.com	8.215.28.244	
+api-stg-vn.sg.midtrans.com	34.102.144.186	
+api-stg.sg.midtrans.com	34.102.144.186	
+api-uat.stg.midtrans.com	117.102.118.215	
+api.google.midtrans.com	103.208.23.37	
+api.integration.midtrans.com	147.139.250.150	
+ api.midtrans.com	104.26.14.196	
+api.sandbox.midtrans.com	34.101.67.219	
+api.sg.midtrans.com	34.117.184.183	
+api.stg.midtrans.com	117.102.118.210	
+api.vn.midtrans.com	34.117.184.183	
+app.midtrans.com	172.67.74.70	
+app.sandbox.midtrans.com	34.101.67.219	
+app.stg.midtrans.com	117.102.118.217	
+beta-docs.midtrans.com	104.26.15.196	
+blog.midtrans.com	34.101.67.219	
+cf-probe-stg-g-gp-eks-01.midtrans.com	54.151.238.138	
+core-api-adapter.stg.midtrans.com	10.221.20.126	
+dashboard-assets.midtrans.com	104.26.15.196	
+dashboard-sandbox.stg.midtrans.com	35.240.159.62	
+dashboard.midtrans.com	104.26.14.196	
+dashboard.sandbox.midtrans.com	34.101.67.219	
+dashboard.stg.midtrans.com	35.240.159.62	
+demo.midtrans.com	34.101.100.187	
+docs.midtrans.com	104.26.15.196	
+fx-ppa.midtrans.com	54.251.86.142	
+fx-ppa.staging.midtrans.com	54.151.238.138	
+fx-ppa.stg.midtrans.com	54.151.238.138	
+info.midtrans.com	104.18.34.21	
+internal.sandbox.midtrans.com	34.101.67.219	
+iris-admin-stg.midtrans.com	35.240.159.62	
+iris-admin.midtrans.com	35.240.134.76	
+iris-docs.midtrans.com	104.16.242.118	
+iris-puma-api-canary-stg.midtrans.com	35.240.159.62	
+iris-puma-api-canary.midtrans.com	35.240.134.76	
+iris-puma-api-stg.midtrans.com	35.240.159.62	
+iris-puma-api.midtrans.com	35.240.134.76	
+kredivo-psp.midtrans.com	54.251.86.142	
+kredivo-psp.sandbox.midtrans.com	34.87.182.53	
+kredivo-psp.stg.midtrans.com	54.151.238.138	
+mami-stg.sg.midtrans.com	34.124.237.87	
+merchants-app.midtrans.com	54.251.86.142	
+merchants-app.sbx.midtrans.com	34.87.182.53	
+merchants-app.stg.midtrans.com	54.151.238.138	
+merchants-auth-integration.midtrans.com	54.151.238.138	
+merchants-auth-sandbox.midtrans.com	34.87.182.53	
+merchants-auth.midtrans.com	54.251.86.142	
+merchants-integration.midtrans.com	54.151.238.138	
+merchants-sandbox.midtrans.com	34.87.182.53	
+merchants.midtrans.com	54.179.122.87	
+merchants.sbx.midtrans.com	34.87.182.53	
+merchants.stg.midtrans.com	54.151.238.138	
+midtrans-multi-tenancy-go-gp-eks-01.midtrans.com	54.179.122.87	
+midtrans-with-dr.midtrans.com	46.137.248.76	
+mirror-card.midtrans.com	35.197.136.143	
+mirror-card.stg.midtrans.com	34.124.237.87	
+mrt.ops.midtrans.com	35.234.201.99	
+nexus-internal.midtrans.com	35.240.134.76	
+nexus-internal.stg.midtrans.com	35.240.159.62	
+notification-service.midtrans.com	16.78.124.49	
+notification-service.stg.midtrans.com	43.218.97.2	
+old-zeus.midtrans.com	54.251.86.142	
+opd-static.midtrans.com	52.222.169.45	
+opd-static.sandbox.midtrans.com	52.222.149.114	
+opd-static.stg.midtrans.com	18.164.52.75	
+openapi-onboarding-service.stg.midtrans.com	54.151.238.138	
+openapi-onboarding.midtrans.com	46.137.248.76	
+openapi-onboarding.sbx.midtrans.com	34.87.182.53	
+openapi-onboarding.stg.midtrans.com	54.151.238.138	
+openapi-psp.midtrans.com	16.78.124.49	
+openapi-psp.stg.midtrans.com	43.218.97.2	
+openapi.midtrans.com	46.137.212.193	
+openapi.partners.midtrans.com	54.251.4.96	
+openapi.partners.stg.midtrans.com	54.151.238.138	
+openapi.sandbox.midtrans.com	34.143.128.22	
+ops.midtrans.com	103.208.23.22	
+panapi.stg.midtrans.com	117.102.118.210	
+partner-api.midtrans.com	54.179.122.87	
+partner-api.stg.midtrans.com	54.151.238.138	
+partner-profile-service.midtrans.com	46.137.248.76	
+partner-profile-service.stg.midtrans.com	54.151.238.138	
+partners.midtrans.com	103.208.23.36	
+partners.sg.midtrans.com	35.247.141.222	
+partners.status.stg.midtrans.com	8.215.28.244	
+passport.midtrans.com	172.67.74.70	
+passport.stg.midtrans.com	8.215.21.157	
+payment-link-assets.midtrans.com	35.240.134.76	
+payment-link-assets.stg.midtrans.com	35.240.159.62	
+payments.midtrans.com	104.26.15.196	
+pixel-gateway.midtrans.com	34.143.212.54	
+pixel-gateway.stg.midtrans.com	34.143.187.239	
+pixel-gcp-gateway.midtrans.com	35.240.134.76	
+pixel-gcp.midtrans.com	35.240.134.76	
+pixel-gcp.stg.midtrans.com	35.240.159.62	
+pixel-notification.midtrans.com	35.240.134.76	
+pixel-notification.stg.midtrans.com	117.102.118.210	
+pixel.midtrans.com	35.240.134.76	
+pixel.stg.midtrans.com	35.240.159.62	
+pki-ap-gateway-mastercard.midtrans.com	43.218.13.178	
+podinfo-gcp.midtrans.com	104.26.14.196	
+podinfo-stg.midtrans.com	34.117.104.209	
+promo-engine.stg.midtrans.com	43.218.97.2	
+scheduler-service.midtrans.com	35.240.134.76	
+scheduler-service.stg.midtrans.com	35.240.159.62	
+simulator.sandbox.midtrans.com	34.101.100.187	
+snap-assets.midtrans.com	104.26.14.196	
+snap-docs.midtrans.com	172.67.74.70	
+snap-merchants-staging.midtrans.com	54.151.238.138	
+status.midtrans.com	104.26.15.196	
+support.midtrans.com	104.26.14.196	
+temu.midtrans.com	216.239.36.21	
+test-cashloan.midtrans.com	35.244.218.166	
+valas-service.midtrans.com	54.251.86.142	
+valas-service.stg.midtrans.com	54.151.238.138	
+vpn.jkt.midtrans.com	35.240.244.243	
+vt-pixels.midtrans.com	104.26.15.196	
+vtweb2.midtrans.com	172.67.74.70	
+www.midtrans.com	104.26.15.196	
+		
