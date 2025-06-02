@@ -148,7 +148,7 @@ proteksi.barokahnet.my.id
 wlg.barokahnet.my.id
 combo_plus.barokahnet.my.id
 xl_game.barokahnet.my.id
-
+sibayu.barokahnet.my.id
 
 
 Pemesanan bug khusus bisa chat Facebook : https://www.facebook.com/xroot.xroot.7
