@@ -9,9 +9,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/bug1.jpg)
 
-My Youtube    : https://www.youtube.com/@AksesInternet2023
-
-Link Tutorial : https://youtu.be/fZIBHfnKwTo
+My Youtube    : https://www.youtube.com/@bangboy-opreker
 
 My Website    : https://hackingforlive.wordpress.com
 
