@@ -1,0 +1,49 @@
+Scanning Bughost XL Vision Plus 2025
+
+Created By Boychongzen aka Xroot
+
+
+
+
+
+app.staging-01.onesignal.com	104.17.111.223	TRUE
+assets-staging.staging.onesignal.com	172.67.70.10	TRUE
+beefree-storage.onesignal.com	104.17.111.223	TRUE
+beefree-storage.staging.onesignal.com	104.26.15.144	TRUE
+beefree.onesignal.com	104.16.160.145	TRUE
+circleci-webhook.onesignal.com	104.17.111.223	TRUE
+circleci-webhooks.onesignal.com	104.16.160.145	TRUE
+dashboard.onesignal.com	104.16.160.145	TRUE
+dashboard.staging.onesignal.com	104.26.15.144	TRUE
+docu.onesignal.com	104.16.160.145	TRUE
+documentation.onesignal.com	76.76.21.98	FALSE
+email.account.onesignal.com	34.110.180.34	FALSE
+email.onesignal.com	34.110.180.34	FALSE
+go.onesignal.com	104.17.71.206	TRUE
+html-snapshots-staging.staging.onesignal.com	104.26.15.144	TRUE
+html-snapshots.onesignal.com	104.17.111.223	TRUE
+html-snapshots.staging.onesignal.com	104.26.14.144	TRUE
+img-dev.staging.onesignal.com	104.26.14.144	TRUE
+img.onesignal.com	104.17.111.223	TRUE
+img.staging.onesignal.com	104.26.14.144	TRUE
+learn.onesignal.com	104.17.70.206	TRUE
+media-cms.onesignal.com	104.17.111.223	TRUE
+media-cms.staging.onesignal.com	104.26.14.144	TRUE
+media.onesignal.com	104.16.160.145	TRUE
+onesignal-data-dev.staging.onesignal.com	172.67.70.10	TRUE
+onesignal-data.onesignal.com	104.17.111.223	TRUE
+onesignal-data.staging.onesignal.com	104.26.14.144	TRUE
+partners.onesignal.com	209.170.205.126	FALSE
+preview.onesignal.com	104.17.111.223	TRUE
+pushprompt3.staging-01.onesignal.com	104.16.160.145	TRUE
+sales.onesignal.com	52.42.110.212	FALSE
+smart.onesignal.com	51.81.185.125	FALSE
+spa.onesignal.com	104.16.160.145	TRUE
+staging-01.onesignal.com	104.16.160.145	TRUE
+staging-02.onesignal.com	104.16.160.145	TRUE
+staging-gcp.onesignal.com	104.17.111.223	TRUE
+staging.onesignal.com	172.67.70.10	TRUE
+status.onesignal.com	76.76.21.98	FALSE
+test.onesignal.com	104.17.111.223	TRUE
+yadda.onesignal.com	104.16.160.145	TRUE
+		
