@@ -1,6 +1,27 @@
-Scanning Bug ML 2022
+Scanning Bughost ML 2025
 
 Created By Boychongzen aka Xroot
+
+
+
+blog.aihelp.net	169.61.195.139	FALSE
+cdn-fe-static.aihelp.net	104.18.52.240	TRUE
+cdn-prerelease.aihelp.net	104.18.52.72	TRUE
+cdn-static.aihelp.net	104.18.52.72	TRUE
+cdn.aihelp.net	104.18.52.72	TRUE
+elex-panel.aihelp.net	104.18.52.240	TRUE
+funplus.aihelp.net	1.1.1.1	FALSE
+grayscale-static.aihelp.net	104.18.52.72	TRUE
+ml-panel.aihelp.net	104.18.52.72	TRUE
+panel.aihelp.net	104.18.52.72	TRUE
+prerelease.aihelp.net	104.18.52.240	TRUE
+testcloudflare.aihelp.net	169.55.254.202	FALSE
+testqiniu.aihelp.net	169.53.40.82	FALSE
+testqn.aihelp.net	169.53.40.82	FALSE
+testwss.aihelp.net	169.55.254.202	FALSE
+wss142.aihelp.net	169.46.167.236	FALSE
+www.aihelp.net	169.53.40.82	FALSE
+yong.aihelp.net	169.61.195.139	FALSE
 
 play.mobilelegends.com
 m.mobilelegends.com
