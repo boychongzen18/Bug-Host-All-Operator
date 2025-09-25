@@ -1,0 +1,48 @@
+Scanning BugHost Sub Tiktok 2025
+
+Created Boychongzen aka Xroot
+
+
+
+
+
+api-h2.tiktokv.com	96.17.193.36	FALSE
+api-t.tiktokv.com	96.16.248.171	FALSE
+api.tiktokv.com	96.16.248.168	FALSE
+api16.tiktokv.com	96.16.248.147	FALSE
+api19-core-useast5.us.tiktokv.com	146.75.34.73	FALSE
+api19-normal-useast5.us.tiktokv.com	146.75.34.73	FALSE
+api24-normal-alisg.tiktokv.com	162.159.141.236	TRUE
+api24-normal-useast1a.tiktokv.com	162.159.141.236	TRUE
+api24-normal.tiktokv.com	162.159.141.236	TRUE
+api30.tiktokv.com	147.160.190.224	FALSE
+api53-core-c-alisg.tiktokv.com	122.11.168.9	FALSE
+api53-core-c-useast1a.tiktokv.com	122.11.168.9	FALSE
+api53-normal-c-alisg.tiktokv.com	122.11.168.9	FALSE
+api53-normal-c-useast1a.tiktokv.com	122.11.168.9	FALSE
+api77-core-c-alisg.tiktokv.com	143.244.57.11	FALSE
+api77-core-c-useast1a.tiktokv.com	143.244.57.18	FALSE
+api77-normal-c-alisg.tiktokv.com	143.244.57.11	FALSE
+api77-normal-c-useast1a.tiktokv.com	138.199.26.11	FALSE
+campaign19-normal-useast5.us.tiktokv.com	146.75.34.73	FALSE
+dm16-alisg.tiktokv.com	2.16.245.26	FALSE
+log19-applog-useast5.us.tiktokv.com	146.75.34.73	FALSE
+log3-normal-c-alisg.tiktokv.com	169.254.254.254	FALSE
+log3-normal-c-useast1a.tiktokv.com	169.254.254.254	FALSE
+log53-normal-c-useast1a.tiktokv.com	122.11.168.9	FALSE
+log77-normal-c-alisg.tiktokv.com	138.199.26.2	FALSE
+log77-normal-c-useast1a.tiktokv.com	143.244.57.14	FALSE
+mon.us.tiktokv.com	199.232.38.73	FALSE
+pitaya-task.us.tiktokv.com	96.16.248.134	FALSE
+private-attribution.us.tiktokv.com	96.16.248.151	FALSE
+pull-flv-f77-tt01.fcdn.us.tiktokv.com	185.246.211.5	FALSE
+pull-flv-f77-tt02.fcdn.us.tiktokv.com	185.246.211.5	FALSE
+rtlog19-applog-useast5.us.tiktokv.com	199.232.38.73	FALSE
+rtlog19-platform-useast5.us.tiktokv.com	146.75.30.73	FALSE
+v16-up.tiktokv.com	23.192.237.135	FALSE
+v16.tiktokv.com	23.192.237.157	FALSE
+vtcs31-private-sg.tiktokv.com	71.18.139.230	FALSE
+vx-bdp.tiktokv.com	71.18.139.230	FALSE
+webcast19-normal-useast5.us.tiktokv.com	146.75.30.73	FALSE
+www.tiktokv.com	96.17.207.153	FALSE
+		
