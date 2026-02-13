@@ -1,88 +1,116 @@
-Scanning BugHost xlsmart 2025
+
+Scanning Bughost XL  2026
 
 Created By Boychongzen aka Xroot
 
 
 
-
-
-
-
-
-
-admin.newxlife.xlsmart.co.id	104.18.38.74	TRUE
-agentbuilder.dev-genai.xlsmart.co.id	104.18.38.74	TRUE
-agentbuilder.genai.xlsmart.co.id	104.18.38.74	TRUE
+admin.newxlife.xlsmart.co.id	172.64.149.182	TRUE
+agentbuilder.dev-genai.xlsmart.co.id	172.64.149.182	TRUE
+agentbuilder.genai.xlsmart.co.id	172.64.149.182	TRUE
 agentbuilder.preprod-genai.xlsmart.co.id	172.64.149.182	TRUE
-agentbuilder.uat-genai.xlsmart.co.id	172.64.149.182	TRUE
-agentic-ai.cvem.xlsmart.co.id	172.64.149.182	TRUE
+agentbuilder.uat-genai.xlsmart.co.id	104.18.38.74	TRUE
+agentic-ai.cvem.xlsmart.co.id	104.18.38.74	TRUE
+api-myxl.zoro.xlsmart.co.id	104.18.38.74	TRUE
+api.lms.xlsmart.co.id	104.18.38.74	TRUE
+api.sit.lms.xlsmart.co.id	172.64.149.182	TRUE
 api3dolphins.dev-genai.xlsmart.co.id	172.64.149.182	TRUE
 api3dolphins.genai.xlsmart.co.id	104.18.38.74	TRUE
-api3dolphins.preprod-genai.xlsmart.co.id	172.64.149.182	TRUE
+api3dolphins.preprod-genai.xlsmart.co.id	104.18.38.74	TRUE
 api3dolphins.uat-genai.xlsmart.co.id	172.64.149.182	TRUE
-apiagentbuilder.dev-genai.xlsmart.co.id	172.64.149.182	TRUE
-apiagentbuilder.genai.xlsmart.co.id	104.18.38.74	TRUE
+apiagentbuilder.dev-genai.xlsmart.co.id	104.18.38.74	TRUE
+apiagentbuilder.genai.xlsmart.co.id	172.64.149.182	TRUE
 apiagentbuilder.preprod-genai.xlsmart.co.id	104.18.38.74	TRUE
-apiagentbuilder.uat-genai.xlsmart.co.id	104.18.38.74	TRUE
+apiagentbuilder.uat-genai.xlsmart.co.id	172.64.149.182	TRUE
 apibotbuilder.dev-genai.xlsmart.co.id	104.18.38.74	TRUE
 apibotbuilder.genai.xlsmart.co.id	172.64.149.182	TRUE
 apibotbuilder.preprod-genai.xlsmart.co.id	104.18.38.74	TRUE
-apibotbuilder.uat-genai.xlsmart.co.id	104.18.38.74	TRUE
+apibotbuilder.uat-genai.xlsmart.co.id	172.64.149.182	TRUE
+assets-comet.xlsmart.co.id	104.18.38.74	TRUE
+auth-api.staging.lms.xlsmart.co.id	172.64.149.182	TRUE
 botbuilder.dev-genai.xlsmart.co.id	172.64.149.182	TRUE
 botbuilder.genai.xlsmart.co.id	104.18.38.74	TRUE
-botbuilder.preprod-genai.xlsmart.co.id	172.64.149.182	TRUE
+botbuilder.preprod-genai.xlsmart.co.id	104.18.38.74	TRUE
 botbuilder.uat-genai.xlsmart.co.id	104.18.38.74	TRUE
-business-static.xlsmart.co.id	104.18.38.74	TRUE
+business-static.xlsmart.co.id	172.64.149.182	TRUE
+camunda.lms.xlsmart.co.id	104.18.38.74	TRUE
 camunda.newssp.xlsmart.co.id	172.64.149.182	TRUE
+camunda.sit.lms.xlsmart.co.id	104.18.38.74	TRUE
 camunda.staging.lms.xlsmart.co.id	172.64.149.182	TRUE
+careerconnect.xlsmart.co.id	104.18.38.74	TRUE
 careers.xlsmart.co.id	172.64.149.182	TRUE
-collibradq.xlsmart.co.id	172.64.149.182	TRUE
+cms-myxl.zoro.xlsmart.co.id	104.18.38.74	TRUE
+cms.shanks.xlsmart.co.id	172.64.149.182	TRUE
+cms.zoro.xlsmart.co.id	172.64.149.182	TRUE
+collibradq.xlsmart.co.id	104.18.38.74	TRUE
+compass-sit.xlsmart.co.id	104.18.38.74	TRUE
+compass-sit2.xlsmart.co.id	172.64.149.182	TRUE
+compass-stg.xlsmart.co.id	104.18.38.74	TRUE
 cvem-agentic-ai-algorithm-dev.xlsmart.co.id	172.64.149.182	TRUE
 cvem-agentic-ai-algorithm.xlsmart.co.id	172.64.149.182	TRUE
-cvem-neo-dashboard-dev.xlsmart.co.id	104.18.38.74	TRUE
-cvem-neo-dashboard.xlsmart.co.id	172.64.149.182	TRUE
-dev-agentic-ai.cvem.xlsmart.co.id	172.64.149.182	TRUE
-ewp.newxlife.xlsmart.co.id	172.64.149.182	TRUE
-ewp.staging.newxlife.xlsmart.co.id	104.18.38.74	TRUE
-fleetech.xlsmart.co.id	34.101.142.20	FALSE
+cvem-neo-dashboard-dev.xlsmart.co.id	172.64.149.182	TRUE
+cvem-neo-dashboard.xlsmart.co.id	104.18.38.74	TRUE
+dev-agentic-ai.cvem.xlsmart.co.id	104.18.38.74	TRUE
+ewp.newxlife.xlsmart.co.id	104.18.38.74	TRUE
+ewp.staging.newxlife.xlsmart.co.id	172.64.149.182	TRUE
+fleetech.xlsmart.co.id	157.66.15.182	FALSE
 flexiot.xlsmart.co.id	108.136.42.236	FALSE
-grafana-newssp.xlsmart.co.id	104.18.38.74	TRUE
-graylog-newssp.xlsmart.co.id	104.18.38.74	TRUE
-jupiter-cms.xlsmart.co.id	104.18.38.74	TRUE
+grafana-newssp.xlsmart.co.id	172.64.149.182	TRUE
+graylog-newssp.xlsmart.co.id	172.64.149.182	TRUE
+jupiter-cms.xlsmart.co.id	172.64.149.182	TRUE
 jupiter-mw.xlsmart.co.id	172.64.149.182	TRUE
-mradmin.newxlife.xlsmart.co.id	172.64.149.182	TRUE
-mradmin.staging.newxlife.xlsmart.co.id	104.18.38.74	TRUE
+mradmin.newxlife.xlsmart.co.id	104.18.38.74	TRUE
+mradmin.staging.newxlife.xlsmart.co.id	172.64.149.182	TRUE
+myxlws.chopper.xlsmart.co.id	104.18.38.74	TRUE
+myxlws.shanks.xlsmart.co.id	104.18.38.74	TRUE
+myxlws.zoro.xlsmart.co.id	104.18.38.74	TRUE
 new-camunda.sit.lms.xlsmart.co.id	172.64.149.182	TRUE
-new-camunda.staging.lms.xlsmart.co.id	104.18.38.74	TRUE
-newssp.xlsmart.co.id	172.64.149.182	TRUE
+new-camunda.staging.lms.xlsmart.co.id	172.64.149.182	TRUE
+newssp.xlsmart.co.id	104.18.38.74	TRUE
 pms.xlsmart.co.id	172.64.149.182	TRUE
+scheduling.xlsmart.co.id	172.64.149.182	TRUE
 sit-newssp.xlsmart.co.id	172.64.149.182	TRUE
 sit.pms.xlsmart.co.id	172.64.149.182	TRUE
 staging.pms.xlsmart.co.id	104.18.38.74	TRUE
+static-cms-myxl.chopper.xlsmart.co.id	104.18.38.74	TRUE
+static-cms-myxl.zoro.xlsmart.co.id	172.64.149.182	TRUE
+static-cms.chopper.xlsmart.co.id	172.64.149.182	TRUE
+static-cms.shanks.xlsmart.co.id	18.66.122.12	FALSE
+static-cms.zoro.xlsmart.co.id	172.64.149.182	TRUE
+static-myxl.chopper.xlsmart.co.id	172.64.149.182	TRUE
+static-myxl.shanks.xlsmart.co.id	104.18.38.74	TRUE
+static-myxl.zoro.xlsmart.co.id	172.64.149.182	TRUE
+static-myxlws.shanks.xlsmart.co.id	172.64.149.182	TRUE
+static-myxlws.zoro.xlsmart.co.id	104.18.38.74	TRUE
 stg-newssp.xlsmart.co.id	104.18.38.74	TRUE
-studio.dev-genai.xlsmart.co.id	172.64.149.182	TRUE
-studio.genai.xlsmart.co.id	104.18.38.74	TRUE
+studio.dev-genai.xlsmart.co.id	104.18.38.74	TRUE
+studio.genai.xlsmart.co.id	172.64.149.182	TRUE
 studio.uat-genai.xlsmart.co.id	104.18.38.74	TRUE
 studiodb.dev-genai.xlsmart.co.id	104.18.38.74	TRUE
-studiodb.genai.xlsmart.co.id	172.64.149.182	TRUE
-studiodb.preprod-genai.xlsmart.co.id	104.18.38.74	TRUE
-studiodb.uat-genai.xlsmart.co.id	172.64.149.182	TRUE
-studiowatch.dev-genai.xlsmart.co.id	104.18.38.74	TRUE
-studiowatch.genai.xlsmart.co.id	104.18.38.74	TRUE
+studiodb.genai.xlsmart.co.id	104.18.38.74	TRUE
+studiodb.preprod-genai.xlsmart.co.id	172.64.149.182	TRUE
+studiodb.uat-genai.xlsmart.co.id	104.18.38.74	TRUE
+studiowatch.dev-genai.xlsmart.co.id	172.64.149.182	TRUE
+studiowatch.genai.xlsmart.co.id	172.64.149.182	TRUE
 studiowatch.preprod-genai.xlsmart.co.id	172.64.149.182	TRUE
 studiowatch.uat-genai.xlsmart.co.id	172.64.149.182	TRUE
+sync-myxl.shanks.xlsmart.co.id	104.18.38.74	TRUE
+sync-myxl.zoro.xlsmart.co.id	172.64.149.182	TRUE
+sync-myxlws.shanks.xlsmart.co.id	172.64.149.182	TRUE
+sync-myxlws.zoro.xlsmart.co.id	104.18.38.74	TRUE
 url.xlsmart.co.id	3.222.5.148	FALSE
-vcard.xlsmart.co.id	172.64.149.182	TRUE
+vcard.xlsmart.co.id	104.18.38.74	TRUE
 vms-staging.xlsmart.co.id	104.18.38.74	TRUE
-vms.xlsmart.co.id	104.18.38.74	TRUE
-www.getapprove.xlsmart.co.id	172.64.149.182	TRUE
-www.newxlife.xlsmart.co.id	104.18.38.74	TRUE
+vms.xlsmart.co.id	172.64.149.182	TRUE
+www.getapprove.xlsmart.co.id	104.18.38.74	TRUE
+www.lms.xlsmart.co.id	104.18.38.74	TRUE
+www.newxlife.xlsmart.co.id	172.64.149.182	TRUE
 www.sit.getapprove.xlsmart.co.id	172.64.149.182	TRUE
-www.sit.lms.xlsmart.co.id	172.64.149.182	TRUE
-www.staging.getapprove.xlsmart.co.id	104.18.38.74	TRUE
+www.sit.lms.xlsmart.co.id	104.18.38.74	TRUE
+www.staging.getapprove.xlsmart.co.id	172.64.149.182	TRUE
 www.staging.lms.xlsmart.co.id	172.64.149.182	TRUE
-www.staging.newxlife.xlsmart.co.id	172.64.149.182	TRUE
-www.xlsmart.co.id	104.18.38.74	TRUE
+www.staging.newxlife.xlsmart.co.id	104.18.38.74	TRUE
+www.xlsmart.co.id	172.64.149.182	TRUE
 xlearn.newxlife.xlsmart.co.id	172.64.149.182	TRUE
 xlearn.xlsmart.co.id	172.64.149.182	TRUE
 		
