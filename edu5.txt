@@ -1,0 +1,51 @@
+
+
+canning Bughost & IP Edukasi  2026
+
+Opsel Indonesia
+
+Axis , XL ,Telkomsel , IM3 Ooredoo
+
+Created By Boychongzen aka Xroot
+
+
+
+4clojure.zenius.com	13.213.2.115	
+backend.zenius.com	52.221.178.83	
+backsite-be.zenius.com	13.213.227.148	
+backsite.zenius.com	13.228.108.96	
+belajar-cms-fe-staging.zenius.com	13.226.244.100	
+belajar-cms-fe.zenius.com	65.9.175.52	
+demo-skul-id.zenius.com	52.221.178.83	
+devlabs-be.zenius.com	13.228.108.96	
+mail.zenius.com	13.251.227.110	
+malaka-books-backsite-fe-staging.zenius.com	13.213.227.148	
+phenex-backsite.zenius.com	54.250.82.138	
+phenex-fe-backsite.zenius.com	35.77.192.19	
+skul-belajar-fe-staging.zenius.com	54.254.11.139	
+skul-id-agent-backoffice-fe-staging.zenius.com	13.213.227.148	
+skul-id-fe-staging.zenius.com	3.174.46.86	
+user-be.zenius.com	13.228.108.96	
+user-service-fe-staging.zenius.com	3.161.82.97	
+user.zenius.com	13.32.121.18	
+www.zenius.com	18.245.86.33	
+zen-ai-api-staging.zenius.com	13.213.227.148	
+zen-ai-api.zenius.com	52.221.178.83	
+zenawan-be-production.zenius.com	13.213.227.148	
+zenawan-fs.zenius.com	99.84.152.115	
+zenblog-fe-staging.zenius.com	13.228.108.96	
+zenbook-fe-staging.zenius.com	13.213.227.148	
+zencampus-backsite-fe-staging.zenius.com	13.213.227.148	
+zencampus-fe-staging.zenius.com	18.66.122.86	
+zencore-backoffice-fe-staging.zenius.com	52.221.178.83	
+zencore-backsite-be-staging.zenius.com	13.213.227.148	
+zencore-backsite-fe-staging.zenius.com	18.66.147.112	
+zenleap-backoffice-fe-staging.zenius.com	13.213.227.148	
+zenleap-retail-fe-staging.zenius.com	52.222.214.58	
+znet-backoffice-fe-staging.zenius.com	13.32.121.57	
+znet-be-staging.zenius.com	13.228.108.96	
+znet-fe-staging.zenius.com	65.8.131.99	
+znet-tryout-be-staging.zenius.com	52.221.178.83	
+znet-tryout-fe-staging.zenius.com	65.8.131.66	
+		
+
