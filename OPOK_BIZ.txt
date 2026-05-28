@@ -1,0 +1,88 @@
+Scanning BugHost Telkomsel Opok 2026
+
+Khusus Opsel : BIZ ORI
+
+Created By Boychongzen aka Xroot
+
+
+
+
+1003b-dq.game.pmang.com	3.34.107.80	FALSE
+1003b.game.pmang.com	13.209.144.155	FALSE
+1003b.pmang.com	104.17.6.18	TRUE
+account.pmang.com	104.17.6.18	TRUE
+ava.pmang.com	104.17.5.18	TRUE
+bill.pmang.com	104.17.5.18	TRUE
+billqr.pmang.com	104.17.6.18	TRUE
+billqt.pmang.com	104.17.5.18	TRUE
+billrpc.pmang.com	104.17.5.18	TRUE
+bj.game.pmang.com	121.156.116.204	FALSE
+bj.pmang.com	104.17.5.18	TRUE
+board-exid-tq.pmang.com	104.17.5.18	TRUE
+board.pmang.com	104.17.6.18	TRUE
+boardr.pmang.com	104.17.6.18	TRUE
+care-tq.pmang.com	104.17.6.18	TRUE
+care.pmang.com	104.17.6.18	TRUE
+channel-tq.pmang.com	104.17.5.18	TRUE
+channel.pmang.com	104.17.6.18	TRUE
+cs-tq.pmang.com	104.17.6.18	TRUE
+cs.pmang.com	104.17.5.18	TRUE
+dekaron.game.pmang.com	43.155.175.62	FALSE
+dekaron.pmang.com	104.17.5.18	TRUE
+dy.game.pmang.com	121.156.116.204	FALSE
+dy.pmang.com	104.17.6.18	TRUE
+gostop-exid-centum.pmang.com	104.17.5.18	TRUE
+gostop-exid-review.pmang.com	104.17.6.18	TRUE
+gostop-exid-tq.pmang.com	104.17.5.18	TRUE
+gostop-wic.pmang.com	104.17.6.18	TRUE
+gostop.pmang.com	104.17.6.18	TRUE
+gostop2018.pmang.com	151.101.1.195	FALSE
+help.pmang.com	52.222.214.18	FALSE
+helpdesk.pmang.com	104.17.6.18	TRUE
+icarus.pmang.com	104.17.6.18	TRUE
+kalonline.game.pmang.com	175.45.192.109	FALSE
+kalonline.pmang.com	104.17.6.18	TRUE
+m-dq.pmang.com	104.17.5.18	TRUE
+m.ava.pmang.com	104.17.5.18	TRUE
+m.pmang.com	104.17.5.18	TRUE
+m.slugger.pmang.com	104.17.6.18	TRUE
+mpay.pmang.com	104.17.6.18	TRUE
+my-tq.pmang.com	104.17.5.18	TRUE
+my.pmang.com	104.17.6.18	TRUE
+pay-sunonline.game.pmang.com	202.31.215.156	FALSE
+pay.pmang.com	104.17.5.18	TRUE
+pcbang-dq.pmang.com	104.17.5.18	TRUE
+pcbang.pmang.com	104.17.5.18	TRUE
+pmangmall.pmang.com	104.17.6.18	TRUE
+poker-exid-centum.pmang.com	104.17.5.18	TRUE
+poker-exid-review.pmang.com	104.17.6.18	TRUE
+poker-exid-tq.pmang.com	104.17.6.18	TRUE
+poker-wic.pmang.com	104.17.5.18	TRUE
+poker.pmang.com	104.17.6.18	TRUE
+pokipoki.game.pmang.com	58.229.202.89	FALSE
+pokipoki.pmang.com	104.17.6.18	TRUE
+pub-dq.pmang.com	43.201.230.153	FALSE
+pub.pmang.com	104.17.5.18	TRUE
+publog.pmang.com	104.17.5.18	TRUE
+qa.globalvegas.pmang.com	35.76.230.138	FALSE
+secure.dekaron.game.pmang.com	43.155.175.62	FALSE
+secureapi.dekaron.game.pmang.com	43.155.175.62	FALSE
+sfile.pmang.com	13.226.244.34	FALSE
+shotonline.game.pmang.com	202.31.215.83	FALSE
+shotonline.pmang.com	104.17.6.18	TRUE
+silkroad.pmang.com	104.17.5.18	TRUE
+slugger.pmang.com	104.17.5.18	TRUE
+solitaire.pmang.com	151.101.65.195	FALSE
+stop-dq.pmang.com	104.17.5.18	TRUE
+stop.pmang.com	104.17.6.18	TRUE
+sunonline.game.pmang.com	202.31.215.42	FALSE
+sunonline.pmang.com	104.17.5.18	TRUE
+vegas-tq.pmang.com	104.17.5.18	TRUE
+vegas-wic.pmang.com	104.17.6.18	TRUE
+vegas.pmang.com	104.17.6.18	TRUE
+vip-board-exid-tq.pmang.com	104.17.5.18	TRUE
+webapi.dekaron.game.pmang.com	43.155.175.62	FALSE
+wid-sunonline.game.pmang.com	202.31.215.41	FALSE
+www-tq.pmang.com	104.17.6.18	TRUE
+www.pmang.com	104.17.5.18	TRUE
+		
